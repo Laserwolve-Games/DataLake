@@ -1,0 +1,1 @@
+var aSets = oInputDirectory.entryList(['*'], DzDir.Dirs | DzDir.NoDotAndDotDot);
