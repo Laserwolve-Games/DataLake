@@ -1,0 +1,72 @@
+{
+	"folders": [
+		{
+			"name": "DaggerQuest",
+			"path": "../DaggerQuest"
+		},
+		{
+			"name": "DaggerQuest.com",
+			"path": "../DaggerQuest.com"
+		},
+		{
+			"name": "DaggerQuest-Test-Realm",
+			"path": "../DaggerQuest-Test-Realm"
+		},
+		{
+			"name": "DaggerTest",
+			"path": "../DaggerTest"
+		},
+		{
+			"name": "Overlord",
+			"path": "../Overlord"
+		},
+		{
+			"name": "CAFfeine",
+			"path": "../CAFfeine"
+		},
+		{
+			"name": "Assets",
+			"path": "."
+		},
+		{
+			"path": "../PlainsOfShinar"
+		},
+		{
+			"path": "../LaserwolveGames.com"
+		}
+	],
+	"settings": {
+		"powershell.cwd": "Overlord",
+		"git.ignoreLimitWarning": true,
+		"java.compile.nullAnalysis.mode": "automatic",
+		"java.configuration.updateBuildConfiguration": "automatic"
+	},
+	"launch": {
+		"configurations": [
+			{
+				"type": "chrome",
+				"name": "http://127.0.0.1:3000/index.html",
+				"request": "launch",
+				"url": "http://127.0.0.1:3000/index.html"
+			},
+			{
+				"type": "chrome",
+				"name": "http://127.0.0.1:3000/build/index.html",
+				"request": "launch",
+				"url": "http://127.0.0.1:3000/build/index.html"
+			},
+			{
+				"type": "chrome",
+				"name": "http://127.0.0.1:3000/website/index.html",
+				"request": "launch",
+				"url": "http://127.0.0.1:3000/website/index.html"
+			},
+			{
+				"type": "chrome",
+				"name": "http://127.0.0.1:3000/website/game/index.html",
+				"request": "launch",
+				"url": "http://127.0.0.1:3000/website/game/index.html"
+			}
+		]
+	}
+}

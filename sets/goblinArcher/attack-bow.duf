@@ -1,0 +1,62 @@
+{
+	"file_version" : "0.6.1.0",
+	"asset_info" : {
+		"id" : "/C%3A/Users/Andrew/Documents/GitHub/Assets/sets/goblinArcher/attack-bow_propAnimation.duf",
+		"type" : "preset_pose",
+		"contributor" : {
+			"author" : "laserwolve",
+			"email" : "",
+			"website" : ""
+		},
+		"revision" : "1.0",
+		"modified" : "2025-07-08T15:07:09Z"
+	},
+	"scene" : {
+		"animations" : [
+			{
+				"url" : "name://@selection:?translation/x/value",
+				"keys" : [ [ 0, 54.92564 ] ]
+			},
+			{
+				"url" : "name://@selection:?translation/y/value",
+				"keys" : [ [ 0, 92.30435 ] ]
+			},
+			{
+				"url" : "name://@selection:?translation/z/value",
+				"keys" : [ [ 0, 5.925933 ] ]
+			},
+			{
+				"url" : "name://@selection:?rotation/x/value",
+				"keys" : [ [ 0, 91.31366 ], [ 1.533333, 97.39832 ] ]
+			},
+			{
+				"url" : "name://@selection:?rotation/y/value",
+				"keys" : [ [ 0, 2.26302 ], [ 1.533333, 1.912571 ] ]
+			},
+			{
+				"url" : "name://@selection:?rotation/z/value",
+				"keys" : [ [ 0, 44.51712 ], [ 1.533333, 57.42411 ] ]
+			},
+			{
+				"url" : "name://@selection#PullBack:?value/value",
+				"keys" : [ [ 0, -0.1 ], [ 0.8333333, -0.1 ], [ 1.533333, 1 ], [ 1.6, -0.1 ] ]
+			},
+			{
+				"url" : "name://@selection:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			}
+		]
+	}
+}

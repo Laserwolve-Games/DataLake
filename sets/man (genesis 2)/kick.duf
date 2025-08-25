@@ -1,0 +1,3258 @@
+{
+	"file_version" : "0.6.1.0",
+	"asset_info" : {
+		"id" : "/C%3A/Users/Andre/Downloads/kick_animation.duf",
+		"type" : "preset_pose",
+		"contributor" : {
+			"author" : "laserwolve",
+			"email" : "",
+			"website" : ""
+		},
+		"revision" : "1.0",
+		"modified" : "2025-02-06T14:18:13Z"
+	},
+	"scene" : {
+		"animations" : [
+			{
+				"url" : "name://@selection/lBigToe:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lBigToe:?translation/y/value",
+				"keys" : [ [ 0, 2.220446e-16 ] ]
+			},
+			{
+				"url" : "name://@selection/lBigToe:?translation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lBigToe:?rotation/x/value",
+				"keys" : [ [ 0, 3.488759e-06 ] ]
+			},
+			{
+				"url" : "name://@selection/lBigToe:?rotation/y/value",
+				"keys" : [ [ 0, -2.904415e-06 ] ]
+			},
+			{
+				"url" : "name://@selection/lBigToe:?rotation/z/value",
+				"keys" : [ [ 0, -8.930369e-06 ] ]
+			},
+			{
+				"url" : "name://@selection/lBigToe:?scale/general/value",
+				"keys" : [ [ 0, 0.9999999 ] ]
+			},
+			{
+				"url" : "name://@selection/lBigToe:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lBigToe:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lBigToe:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe1:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe1:?translation/y/value",
+				"keys" : [ [ 0, 2.220446e-16 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe1:?translation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe1:?rotation/x/value",
+				"keys" : [ [ 0, -1.094738e-06 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe1:?rotation/y/value",
+				"keys" : [ [ 0, 9.80621e-06 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe1:?rotation/z/value",
+				"keys" : [ [ 0, -1.731576e-06 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe1:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe1:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe1:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe1:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe2:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe2:?translation/y/value",
+				"keys" : [ [ 0, 2.220446e-16 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe2:?translation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe2:?rotation/x/value",
+				"keys" : [ [ 0, -6.452043e-06 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe2:?rotation/y/value",
+				"keys" : [ [ 0, -6.734542e-06 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe2:?rotation/z/value",
+				"keys" : [ [ 0, -3.657272e-06 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe2:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe2:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe2:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe2:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe3:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe3:?translation/y/value",
+				"keys" : [ [ 0, 2.220446e-16 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe3:?translation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe3:?rotation/x/value",
+				"keys" : [ [ 0, 9.958928e-06 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe3:?rotation/y/value",
+				"keys" : [ [ 0, 1.043209e-06 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe3:?rotation/z/value",
+				"keys" : [ [ 0, 3.000862e-07 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe3:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe3:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe3:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe3:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe4:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe4:?translation/y/value",
+				"keys" : [ [ 0, 2.220446e-16 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe4:?translation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe4:?rotation/x/value",
+				"keys" : [ [ 0, -9.174991e-06 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe4:?rotation/y/value",
+				"keys" : [ [ 0, 1.392894e-06 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe4:?rotation/z/value",
+				"keys" : [ [ 0, -3.773323e-06 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe4:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe4:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe4:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe4:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lToe:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lToe:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lToe:?translation/z/value",
+				"keys" : [ [ 0, 1.776357e-15 ] ]
+			},
+			{
+				"url" : "name://@selection/lToe:?rotation/x/value",
+				"keys" : [ [ 0, -4.990812 ], [ 0.03333333, -4.44229 ], [ 0.06666667, -5.518471 ], [ 0.1, -2.001897 ], [ 0.1333333, -1.185476 ], [ 0.1666667, -1.496735 ], [ 0.2, -1.653084 ], [ 0.2333333, -1.658406 ], [ 0.2666667, -1.646142 ], [ 0.3, -1.734556 ], [ 0.3333333, -1.593629 ], [ 0.3666667, -1.545308 ], [ 0.4, -1.564401 ], [ 0.4333333, -1.595351 ], [ 0.4666667, -1.595072 ], [ 0.5, -1.741654 ], [ 0.5333333, -2.281204 ], [ 0.5666667, -5.511713 ], [ 0.6, -7.850205 ], [ 0.6333333, -7.248368 ], [ 0.6666667, -5.54576 ], [ 0.7, -4.99251 ], [ 0.7333333, -4.992521 ], [ 0.7666667, -4.992508 ], [ 0.8, -4.992505 ] ]
+			},
+			{
+				"url" : "name://@selection/lToe:?rotation/y/value",
+				"keys" : [ [ 0, -3.563019 ], [ 0.03333333, -2.871167 ], [ 0.06666667, -1.128788 ], [ 0.1, 1.203081 ], [ 0.1333333, 1.708324 ], [ 0.1666667, 1.334703 ], [ 0.2, 1.07194 ], [ 0.2333333, 1.055775 ], [ 0.2666667, 1.064816 ], [ 0.3, 0.9754058 ], [ 0.3333333, 1.162416 ], [ 0.3666667, 1.101327 ], [ 0.4, 1.165562 ], [ 0.4333333, 1.175305 ], [ 0.4666667, 1.174663 ], [ 0.5, 0.9545194 ], [ 0.5333333, 0.8669087 ], [ 0.5666667, 0.1139821 ], [ 0.6, -0.8633015 ], [ 0.6333333, -2.113824 ], [ 0.6666667, -3.220444 ], [ 0.7, -3.562971 ], [ 0.7333333, -3.562959 ], [ 0.7666667, -3.562968 ], [ 0.8, -3.562972 ] ]
+			},
+			{
+				"url" : "name://@selection/lToe:?rotation/z/value",
+				"keys" : [ [ 0, 0.5132749 ], [ 0.03333333, 0.4323415 ], [ 0.06666667, -0.3298815 ], [ 0.1, -0.3347606 ], [ 0.1333333, -0.2311787 ], [ 0.1666667, -0.02242437 ], [ 0.2, 0.5009674 ], [ 0.2333333, 0.575493 ], [ 0.2666667, 0.6136289 ], [ 0.3, 0.5549649 ], [ 0.3333333, 0.4061676 ], [ 0.3666667, 1.071439 ], [ 0.4, 0.5686937 ], [ 0.4333333, 0.3118274 ], [ 0.4666667, 0.313404 ], [ 0.5, 0.6099666 ], [ 0.5333333, 0.4915936 ], [ 0.5666667, -0.2881451 ], [ 0.6, -0.6872669 ], [ 0.6333333, -0.3619817 ], [ 0.6666667, 0.422652 ], [ 0.7, 0.5131364 ], [ 0.7333333, 0.5131391 ], [ 0.7666667, 0.513105 ], [ 0.8, 0.5131246 ] ]
+			},
+			{
+				"url" : "name://@selection/lToe:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lToe:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lToe:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lToe:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lFoot:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lFoot:?translation/y/value",
+				"keys" : [ [ 0, -7.105427e-15 ] ]
+			},
+			{
+				"url" : "name://@selection/lFoot:?translation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lFoot:?rotation/x/value",
+				"keys" : [ [ 0, 6.30916 ], [ 0.03333333, 5.188768 ], [ 0.06666667, 6.039208 ], [ 0.1, 3.012857 ], [ 0.1333333, -0.2399292 ], [ 0.1666667, -2.889792 ], [ 0.2, -2.288042 ], [ 0.2333333, -2.04251 ], [ 0.2666667, -5.872002 ], [ 0.3, -13.01392 ], [ 0.3333333, -16.85029 ], [ 0.3666667, -16.69826 ], [ 0.4, -16.95942 ], [ 0.4333333, -16.67433 ], [ 0.4666667, -14.52283 ], [ 0.5, -11.61262 ], [ 0.5333333, -9.206176 ], [ 0.5666667, -5.541227 ], [ 0.6, -3.285596 ], [ 0.6333333, -4.698456 ], [ 0.6666667, -4.853907 ], [ 0.7, -2.114302 ], [ 0.7333333, 1.097841 ], [ 0.7666667, 3.85517 ], [ 0.8, 6.309202 ] ]
+			},
+			{
+				"url" : "name://@selection/lFoot:?rotation/y/value",
+				"keys" : [ [ 0, -2.145999 ], [ 0.03333333, -1.763741 ], [ 0.06666667, -0.01142017 ], [ 0.1, 1.153834 ], [ 0.1333333, 1.432093 ], [ 0.1666667, 1.569755 ], [ 0.2, 1.538938 ], [ 0.2333333, 1.577217 ], [ 0.2666667, 1.28257 ], [ 0.3, 1.157798 ], [ 0.3333333, 1.207789 ], [ 0.3666667, 1.146229 ], [ 0.4, 1.098631 ], [ 0.4333333, 0.9313204 ], [ 0.4666667, 0.8009645 ], [ 0.5, 0.7654588 ], [ 0.5333333, 0.6623541 ], [ 0.5666667, 0.6535726 ], [ 0.6, 0.6648066 ], [ 0.6333333, 0.2330208 ], [ 0.6666667, -0.5216925 ], [ 0.7, -1.148953 ], [ 0.7333333, -1.7182 ], [ 0.7666667, -2.060905 ], [ 0.8, -2.146001 ] ]
+			},
+			{
+				"url" : "name://@selection/lFoot:?rotation/z/value",
+				"keys" : [ [ 0, -6.163431 ], [ 0.03333333, -5.102107 ], [ 0.06666667, -0.9521909 ], [ 0.1, 1.132323 ], [ 0.1333333, 2.377734 ], [ 0.1666667, 3.368592 ], [ 0.2, 3.384371 ], [ 0.2333333, 3.867507 ], [ 0.2666667, 3.207652 ], [ 0.3, 2.666052 ], [ 0.3333333, 2.672432 ], [ 0.3666667, 1.218044 ], [ 0.4, 1.025011 ], [ 0.4333333, 0.5355613 ], [ 0.4666667, 0.3193708 ], [ 0.5, 0.05043918 ], [ 0.5333333, 0.2787348 ], [ 0.5666667, 0.6085142 ], [ 0.6, 0.26675 ], [ 0.6333333, -0.8755591 ], [ 0.6666667, -2.790862 ], [ 0.7, -4.344154 ], [ 0.7333333, -5.499011 ], [ 0.7666667, -6.087966 ], [ 0.8, -6.163429 ] ]
+			},
+			{
+				"url" : "name://@selection/lFoot:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lFoot:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lFoot:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lFoot:?scale/z/value",
+				"keys" : [ [ 0, 0.9999999 ] ]
+			},
+			{
+				"url" : "name://@selection/lShin:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lShin:?translation/y/value",
+				"keys" : [ [ 0, 7.105427e-15 ] ]
+			},
+			{
+				"url" : "name://@selection/lShin:?translation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lShin:?rotation/x/value",
+				"keys" : [ [ 0, 42.86879 ], [ 0.03333333, 44.68551 ], [ 0.06666667, 48.21392 ], [ 0.1, 48.93008 ], [ 0.1333333, 48.23233 ], [ 0.1666667, 44.20581 ], [ 0.2, 34.0905 ], [ 0.2333333, 26.78013 ], [ 0.2666667, 26.64577 ], [ 0.3, 30.75539 ], [ 0.3333333, 26.8761 ], [ 0.3666667, 17.34615 ], [ 0.4, 18.25282 ], [ 0.4333333, 26.04683 ], [ 0.4666667, 31.76391 ], [ 0.5, 32.65037 ], [ 0.5333333, 34.01521 ], [ 0.5666667, 38.40249 ], [ 0.6, 42.99047 ], [ 0.6333333, 47.15319 ], [ 0.6666667, 49.9007 ], [ 0.7, 50.27905 ], [ 0.7333333, 48.45454 ], [ 0.7666667, 45.88653 ], [ 0.8, 42.86874 ] ]
+			},
+			{
+				"url" : "name://@selection/lShin:?rotation/y/value",
+				"keys" : [ [ 0, -11.54974 ], [ 0.03333333, -13.76811 ], [ 0.06666667, -5.343254 ], [ 0.1, 4.352995 ], [ 0.1333333, 6.062001 ], [ 0.1666667, 5.414688 ], [ 0.2, 5.574743 ], [ 0.2333333, 3.783248 ], [ 0.2666667, 2.37762 ], [ 0.3, -1.799941 ], [ 0.3333333, -5.667204 ], [ 0.3666667, -4.038226 ], [ 0.4, 0.2713795 ], [ 0.4333333, 3.797302 ], [ 0.4666667, 4.865643 ], [ 0.5, 6.186288 ], [ 0.5333333, 5.619292 ], [ 0.5666667, 2.597905 ], [ 0.6, -2.691835 ], [ 0.6333333, -9.499676 ], [ 0.6666667, -14.68496 ], [ 0.7, -14.11857 ], [ 0.7333333, -12.30709 ], [ 0.7666667, -11.4303 ], [ 0.8, -11.54976 ] ]
+			},
+			{
+				"url" : "name://@selection/lShin:?rotation/z/value",
+				"keys" : [ [ 0, 8.520509 ], [ 0.03333333, 8.751151 ], [ 0.06666667, 5.393315 ], [ 0.1, 2.009624 ], [ 0.1333333, 1.160372 ], [ 0.1666667, 1.105123 ], [ 0.2, 0.9658322 ], [ 0.2333333, 0.7869574 ], [ 0.2666667, 0.7514933 ], [ 0.3, 0.7282988 ], [ 0.3333333, 0.6336143 ], [ 0.3666667, 0.4043765 ], [ 0.4, 0.5852479 ], [ 0.4333333, 1.056573 ], [ 0.4666667, 1.326947 ], [ 0.5, 1.354769 ], [ 0.5333333, 1.291409 ], [ 0.5666667, 1.990921 ], [ 0.6, 4.123725 ], [ 0.6333333, 7.036742 ], [ 0.6666667, 9.470112 ], [ 0.7, 9.862944 ], [ 0.7333333, 9.526221 ], [ 0.7666667, 9.074166 ], [ 0.8, 8.5205 ] ]
+			},
+			{
+				"url" : "name://@selection/lShin:?scale/general/value",
+				"keys" : [ [ 0, 0.9999999 ] ]
+			},
+			{
+				"url" : "name://@selection/lShin:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lShin:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lShin:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lThigh:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lThigh:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lThigh:?translation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lThigh:?rotation/x/value",
+				"keys" : [ [ 0, -46.47864 ], [ 0.03333333, -50.90645 ], [ 0.06666667, -57.44328 ], [ 0.1, -60.75627 ], [ 0.1333333, -55.48151 ], [ 0.1666667, -41.36961 ], [ 0.2, -24.1611 ], [ 0.2333333, -10.18681 ], [ 0.2666667, -2.391131 ], [ 0.3, 3.760896 ], [ 0.3333333, 16.21713 ], [ 0.3666667, 26.36386 ], [ 0.4, 24.87266 ], [ 0.4333333, 13.66372 ], [ 0.4666667, 1.184054 ], [ 0.5, -8.762314 ], [ 0.5333333, -17.50427 ], [ 0.5666667, -24.73468 ], [ 0.6, -31.93854 ], [ 0.6333333, -37.6327 ], [ 0.6666667, -43.75992 ], [ 0.7, -47.52275 ], [ 0.7333333, -49.29881 ], [ 0.7666667, -48.64128 ], [ 0.8, -46.47862 ] ]
+			},
+			{
+				"url" : "name://@selection/lThigh:?rotation/y/value",
+				"keys" : [ [ 0, 36.53805 ], [ 0.03333333, 30.69948 ], [ 0.06666667, 24.32549 ], [ 0.1, 15.30885 ], [ 0.1333333, 10.43397 ], [ 0.1666667, 4.855934 ], [ 0.2, -2.74061 ], [ 0.2333333, -10.44545 ], [ 0.2666667, -17.25452 ], [ 0.3, -23.51749 ], [ 0.3333333, -28.7645 ], [ 0.3666667, -31.14398 ], [ 0.4, -27.28961 ], [ 0.4333333, -18.10798 ], [ 0.4666667, -9.214069 ], [ 0.5, 3.482221 ], [ 0.5333333, 15.70897 ], [ 0.5666667, 22.02607 ], [ 0.6, 29.21035 ], [ 0.6333333, 39.45938 ], [ 0.6666667, 43.08909 ], [ 0.7, 40.74751 ], [ 0.7333333, 37.29423 ], [ 0.7666667, 36.0679 ], [ 0.8, 36.53807 ] ]
+			},
+			{
+				"url" : "name://@selection/lThigh:?rotation/z/value",
+				"keys" : [ [ 0, 32.62706 ], [ 0.03333333, 31.56953 ], [ 0.06666667, 31.5046 ], [ 0.1, 23.09982 ], [ 0.1333333, 10.21595 ], [ 0.1666667, -1.634784 ], [ 0.2, -5.493103 ], [ 0.2333333, -4.807736 ], [ 0.2666667, -1.314971 ], [ 0.3, 4.031487 ], [ 0.3333333, 9.613233 ], [ 0.3666667, 14.17232 ], [ 0.4, 5.264955 ], [ 0.4333333, -3.239005 ], [ 0.4666667, -4.090987 ], [ 0.5, -2.0917 ], [ 0.5333333, 3.869003 ], [ 0.5666667, 8.826138 ], [ 0.6, 14.65739 ], [ 0.6333333, 25.48898 ], [ 0.6666667, 34.54127 ], [ 0.7, 36.11502 ], [ 0.7333333, 34.98362 ], [ 0.7666667, 33.74835 ], [ 0.8, 32.62707 ] ]
+			},
+			{
+				"url" : "name://@selection/lThigh:?scale/general/value",
+				"keys" : [ [ 0, 0.9999999 ] ]
+			},
+			{
+				"url" : "name://@selection/lThigh:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lThigh:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lThigh:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rBigToe:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rBigToe:?translation/y/value",
+				"keys" : [ [ 0, -2.220446e-16 ] ]
+			},
+			{
+				"url" : "name://@selection/rBigToe:?translation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rBigToe:?rotation/x/value",
+				"keys" : [ [ 0, 3.488759e-06 ] ]
+			},
+			{
+				"url" : "name://@selection/rBigToe:?rotation/y/value",
+				"keys" : [ [ 0, 2.904415e-06 ] ]
+			},
+			{
+				"url" : "name://@selection/rBigToe:?rotation/z/value",
+				"keys" : [ [ 0, 8.930369e-06 ] ]
+			},
+			{
+				"url" : "name://@selection/rBigToe:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rBigToe:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rBigToe:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rBigToe:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe1:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe1:?translation/y/value",
+				"keys" : [ [ 0, -2.220446e-16 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe1:?translation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe1:?rotation/x/value",
+				"keys" : [ [ 0, 1.094738e-06 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe1:?rotation/y/value",
+				"keys" : [ [ 0, 9.806211e-06 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe1:?rotation/z/value",
+				"keys" : [ [ 0, -1.731576e-06 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe1:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe1:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe1:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe1:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe2:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe2:?translation/y/value",
+				"keys" : [ [ 0, -2.220446e-16 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe2:?translation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe2:?rotation/x/value",
+				"keys" : [ [ 0, -6.452043e-06 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe2:?rotation/y/value",
+				"keys" : [ [ 0, 6.734542e-06 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe2:?rotation/z/value",
+				"keys" : [ [ 0, 3.657272e-06 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe2:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe2:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe2:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe2:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe3:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe3:?translation/y/value",
+				"keys" : [ [ 0, -2.220446e-16 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe3:?translation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe3:?rotation/x/value",
+				"keys" : [ [ 0, 9.958928e-06 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe3:?rotation/y/value",
+				"keys" : [ [ 0, -1.043209e-06 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe3:?rotation/z/value",
+				"keys" : [ [ 0, -3.000862e-07 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe3:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe3:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe3:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe3:?scale/z/value",
+				"keys" : [ [ 0, 0.9999999 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe4:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe4:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe4:?translation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe4:?rotation/x/value",
+				"keys" : [ [ 0, -7.072906e-06 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe4:?rotation/y/value",
+				"keys" : [ [ 0, 7.027951e-06 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe4:?rotation/z/value",
+				"keys" : [ [ 0, 9.697837e-07 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe4:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe4:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe4:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe4:?scale/z/value",
+				"keys" : [ [ 0, 0.9999999 ] ]
+			},
+			{
+				"url" : "name://@selection/rToe:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rToe:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rToe:?translation/z/value",
+				"keys" : [ [ 0, 1.776357e-15 ] ]
+			},
+			{
+				"url" : "name://@selection/rToe:?rotation/x/value",
+				"keys" : [ [ 0, -1.598165 ], [ 0.03333333, -1.598173 ], [ 0.06666667, -1.598163 ], [ 0.1, -3.24334 ], [ 0.1333333, -11.99952 ], [ 0.1666667, -18.74152 ], [ 0.2, -3.249079 ], [ 0.2333333, -0.2370861 ], [ 0.2666667, -2.868618 ], [ 0.3, -16.16569 ], [ 0.3333333, -7.62813 ], [ 0.3666667, -6.669421 ], [ 0.4, -4.58485 ], [ 0.4333333, -1.941828 ], [ 0.4666667, -2.459151 ], [ 0.5, 1.214806 ], [ 0.5333333, -0.4580277 ], [ 0.5666667, 2.39647 ], [ 0.6, -2.986146 ], [ 0.6333333, -14.27861 ], [ 0.6666667, -18.49672 ], [ 0.7, -4.949986 ], [ 0.7333333, -1.598072 ], [ 0.7666667, -1.598068 ], [ 0.8, -1.598065 ] ]
+			},
+			{
+				"url" : "name://@selection/rToe:?rotation/y/value",
+				"keys" : [ [ 0, 0.4019606 ], [ 0.03333333, 0.4019934 ], [ 0.06666667, 0.4019854 ], [ 0.1, 0.4216343 ], [ 0.1333333, 10.95464 ], [ 0.1666667, 13.52276 ], [ 0.2, 1.991664 ], [ 0.2333333, -1.161916 ], [ 0.2666667, 6.098795 ], [ 0.3, 3.05759 ], [ 0.3333333, -6.315871 ], [ 0.3666667, -4.936867 ], [ 0.4, -1.060686 ], [ 0.4333333, -2.575497 ], [ 0.4666667, -2.282096 ], [ 0.5, -2.300267 ], [ 0.5333333, 0.4386199 ], [ 0.5666667, 0.2182382 ], [ 0.6, -0.3896387 ], [ 0.6333333, 1.239001 ], [ 0.6666667, 6.586273 ], [ 0.7, 2.781156 ], [ 0.7333333, 0.4019833 ], [ 0.7666667, 0.4019721 ], [ 0.8, 0.4019725 ] ]
+			},
+			{
+				"url" : "name://@selection/rToe:?rotation/z/value",
+				"keys" : [ [ 0, -0.726974 ], [ 0.03333333, -0.7269745 ], [ 0.06666667, -0.7269815 ], [ 0.1, -0.06198297 ], [ 0.1333333, 13.24063 ], [ 0.1666667, 18.85439 ], [ 0.2, -1.457096 ], [ 0.2333333, 2.174517 ], [ 0.2666667, -10.60712 ], [ 0.3, -3.960605 ], [ 0.3333333, 10.06532 ], [ 0.3666667, 7.575178 ], [ 0.4, 1.847211 ], [ 0.4333333, 4.356588 ], [ 0.4666667, 2.047677 ], [ 0.5, 4.375118 ], [ 0.5333333, -0.8049653 ], [ 0.5666667, -0.4158597 ], [ 0.6, 4.681857 ], [ 0.6333333, 14.70433 ], [ 0.6666667, 17.97595 ], [ 0.7, 3.449964 ], [ 0.7333333, -0.7270151 ], [ 0.7666667, -0.7270062 ], [ 0.8, -0.7270187 ] ]
+			},
+			{
+				"url" : "name://@selection/rToe:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rToe:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rToe:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rToe:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rFoot:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rFoot:?translation/y/value",
+				"keys" : [ [ 0, -7.105427e-15 ] ]
+			},
+			{
+				"url" : "name://@selection/rFoot:?translation/z/value",
+				"keys" : [ [ 0, 4.440892e-16 ] ]
+			},
+			{
+				"url" : "name://@selection/rFoot:?rotation/x/value",
+				"keys" : [ [ 0, -5.417189 ], [ 0.03333333, -3.721729 ], [ 0.06666667, -1.105849 ], [ 0.1, 4.971678 ], [ 0.1333333, 18.19102 ], [ 0.1666667, 30.50307 ], [ 0.2, 1.365121 ], [ 0.2333333, -12.3333 ], [ 0.2666667, 12.12829 ], [ 0.3, 2.731625 ], [ 0.3333333, 0.9928597 ], [ 0.3666667, 17.83559 ], [ 0.4, 28.39581 ], [ 0.4333333, 29.05153 ], [ 0.4666667, 20.06356 ], [ 0.5, 17.51079 ], [ 0.5333333, 16.5957 ], [ 0.5666667, 15.94224 ], [ 0.6, 17.64058 ], [ 0.6333333, 24.20002 ], [ 0.6666667, 17.29871 ], [ 0.7, 6.201846 ], [ 0.7333333, -1.313102 ], [ 0.7666667, -4.004519 ], [ 0.8, -5.417118 ] ]
+			},
+			{
+				"url" : "name://@selection/rFoot:?rotation/y/value",
+				"keys" : [ [ 0, 6.86661 ], [ 0.03333333, 7.768369 ], [ 0.06666667, 8.601276 ], [ 0.1, 10.54852 ], [ 0.1333333, 8.201873 ], [ 0.1666667, 5.270081 ], [ 0.2, 0.2846856 ], [ 0.2333333, 1.724111 ], [ 0.2666667, 1.635649 ], [ 0.3, -7.116059 ], [ 0.3333333, -3.386437 ], [ 0.3666667, -4.668048 ], [ 0.4, 1.449068 ], [ 0.4333333, -2.000772 ], [ 0.4666667, -3.997883 ], [ 0.5, -2.07982 ], [ 0.5333333, -1.470898 ], [ 0.5666667, -2.657509 ], [ 0.6, -2.568899 ], [ 0.6333333, -0.683893 ], [ 0.6666667, 4.89051 ], [ 0.7, 8.245348 ], [ 0.7333333, 8.036064 ], [ 0.7666667, 7.336528 ], [ 0.8, 6.866591 ] ]
+			},
+			{
+				"url" : "name://@selection/rFoot:?rotation/z/value",
+				"keys" : [ [ 0, 28.74898 ], [ 0.03333333, 30.48871 ], [ 0.06666667, 30.77627 ], [ 0.1, 31.22701 ], [ 0.1333333, 18.44337 ], [ 0.1666667, 3.93689 ], [ 0.2, 0.3662772 ], [ 0.2333333, 6.877974 ], [ 0.2666667, 3.044238 ], [ 0.3, -6.740422 ], [ 0.3333333, 8.868663 ], [ 0.3666667, 7.861705 ], [ 0.4, 5.081419 ], [ 0.4333333, -5.536184 ], [ 0.4666667, -2.15545 ], [ 0.5, 0.716343 ], [ 0.5333333, 0.8300887 ], [ 0.5666667, -0.9253133 ], [ 0.6, 0.5440083 ], [ 0.6333333, 2.847497 ], [ 0.6666667, 11.48338 ], [ 0.7, 24.61406 ], [ 0.7333333, 29.23333 ], [ 0.7666667, 29.2282 ], [ 0.8, 28.74894 ] ]
+			},
+			{
+				"url" : "name://@selection/rFoot:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rFoot:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rFoot:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rFoot:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rShin:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rShin:?translation/y/value",
+				"keys" : [ [ 0, 7.105427e-15 ] ]
+			},
+			{
+				"url" : "name://@selection/rShin:?translation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rShin:?rotation/x/value",
+				"keys" : [ [ 0, 41.29256 ], [ 0.03333333, 37.52646 ], [ 0.06666667, 32.47424 ], [ 0.1, 23.91721 ], [ 0.1333333, 19.17009 ], [ 0.1666667, 22.57735 ], [ 0.2, 69.20824 ], [ 0.2333333, 107.1517 ], [ 0.2666667, 132.247 ], [ 0.3, 110.3704 ], [ 0.3333333, 35.22409 ], [ 0.3666667, -2.251508 ], [ 0.4, 4.406641 ], [ 0.4333333, 3.803144 ], [ 0.4666667, 44.51754 ], [ 0.5, 82.30342 ], [ 0.5333333, 98.50888 ], [ 0.5666667, 88.93407 ], [ 0.6, 63.69913 ], [ 0.6333333, 41.10263 ], [ 0.6666667, 31.11813 ], [ 0.7, 27.34062 ], [ 0.7333333, 32.74167 ], [ 0.7666667, 38.3552 ], [ 0.8, 41.29238 ] ]
+			},
+			{
+				"url" : "name://@selection/rShin:?rotation/y/value",
+				"keys" : [ [ 0, -4.480731 ], [ 0.03333333, -8.838401 ], [ 0.06666667, -11.37554 ], [ 0.1, -17.72837 ], [ 0.1333333, -20.89708 ], [ 0.1666667, -30.20479 ], [ 0.2, -5.073354 ], [ 0.2333333, 3.124952 ], [ 0.2666667, -2.19902 ], [ 0.3, 7.905194 ], [ 0.3333333, -0.9453209 ], [ 0.3666667, -15.89313 ], [ 0.4, -36.27807 ], [ 0.4333333, -33.74306 ], [ 0.4666667, -19.91487 ], [ 0.5, 1.759759 ], [ 0.5333333, -1.174121 ], [ 0.5666667, -20.81887 ], [ 0.6, -25.36509 ], [ 0.6333333, -9.268113 ], [ 0.6666667, -6.397186 ], [ 0.7, -2.954878 ], [ 0.7333333, -3.372983 ], [ 0.7666667, -4.189966 ], [ 0.8, -4.48066 ] ]
+			},
+			{
+				"url" : "name://@selection/rShin:?rotation/z/value",
+				"keys" : [ [ 0, -8.807395 ], [ 0.03333333, -8.080606 ], [ 0.06666667, -7.123682 ], [ 0.1, -5.857101 ], [ 0.1333333, -4.132703 ], [ 0.1666667, -4.268458 ], [ 0.2, -5.907286 ], [ 0.2333333, -0.2635583 ], [ 0.2666667, 2.509411 ], [ 0.3, 6.95758 ], [ 0.3333333, -6.681442 ], [ 0.3666667, -3.506852 ], [ 0.4, -0.9259356 ], [ 0.4333333, 0.3380872 ], [ 0.4666667, 7.710409 ], [ 0.5, 0.5424085 ], [ 0.5333333, -5.302083 ], [ 0.5666667, -4.430521 ], [ 0.6, -7.685523 ], [ 0.6333333, -11.39629 ], [ 0.6666667, -7.787333 ], [ 0.7, -6.652676 ], [ 0.7333333, -7.56764 ], [ 0.7666667, -8.40871 ], [ 0.8, -8.807386 ] ]
+			},
+			{
+				"url" : "name://@selection/rShin:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rShin:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rShin:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rShin:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rThigh:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rThigh:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rThigh:?translation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rThigh:?rotation/x/value",
+				"keys" : [ [ 0, -25.63124 ], [ 0.03333333, -18.23294 ], [ 0.06666667, -13.8281 ], [ 0.1, -4.093277 ], [ 0.1333333, 10.77922 ], [ 0.1666667, 21.14996 ], [ 0.2, 1.144004 ], [ 0.2333333, -28.36025 ], [ 0.2666667, -94.56437 ], [ 0.3, -127.7052 ], [ 0.3333333, -93.75272 ], [ 0.3666667, -63.34488 ], [ 0.4, -66.55936 ], [ 0.4333333, -65.01044 ], [ 0.4666667, -74.19965 ], [ 0.5, -76.3082 ], [ 0.5333333, -62.81843 ], [ 0.5666667, -41.97684 ], [ 0.6, -28.41347 ], [ 0.6333333, -23.54905 ], [ 0.6666667, -20.40998 ], [ 0.7, -18.22651 ], [ 0.7333333, -21.08265 ], [ 0.7666667, -24.26304 ], [ 0.8, -25.63113 ] ]
+			},
+			{
+				"url" : "name://@selection/rThigh:?rotation/y/value",
+				"keys" : [ [ 0, -24.27911 ], [ 0.03333333, -27.75136 ], [ 0.06666667, -30.88145 ], [ 0.1, -35.09272 ], [ 0.1333333, -53.04898 ], [ 0.1666667, -31.39061 ], [ 0.2, -11.44135 ], [ 0.2333333, -12.45347 ], [ 0.2666667, -9.584192 ], [ 0.3, 5.338272 ], [ 0.3333333, 4.564839 ], [ 0.3666667, -1.61989 ], [ 0.4, -3.385484 ], [ 0.4333333, -8.392536 ], [ 0.4666667, -14.77767 ], [ 0.5, -19.12879 ], [ 0.5333333, -13.67776 ], [ 0.5666667, -2.946445 ], [ 0.6, -6.167181 ], [ 0.6333333, -14.97358 ], [ 0.6666667, -24.78576 ], [ 0.7, -27.84907 ], [ 0.7333333, -26.64555 ], [ 0.7666667, -25.10344 ], [ 0.8, -24.2792 ] ]
+			},
+			{
+				"url" : "name://@selection/rThigh:?rotation/z/value",
+				"keys" : [ [ 0, -28.74941 ], [ 0.03333333, -25.88925 ], [ 0.06666667, -22.18768 ], [ 0.1, -19.24712 ], [ 0.1333333, -21.43826 ], [ 0.1666667, -17.81494 ], [ 0.2, -10.84187 ], [ 0.2333333, -12.31193 ], [ 0.2666667, -20.52277 ], [ 0.3, -26.87024 ], [ 0.3333333, -22.45543 ], [ 0.3666667, -27.77855 ], [ 0.4, -22.03062 ], [ 0.4333333, -11.84394 ], [ 0.4666667, -12.45414 ], [ 0.5, -6.929687 ], [ 0.5333333, -4.272001 ], [ 0.5666667, -14.68747 ], [ 0.6, -23.31686 ], [ 0.6333333, -24.34941 ], [ 0.6666667, -27.13268 ], [ 0.7, -27.01922 ], [ 0.7333333, -27.21722 ], [ 0.7666667, -28.00229 ], [ 0.8, -28.74939 ] ]
+			},
+			{
+				"url" : "name://@selection/rThigh:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rThigh:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rThigh:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rThigh:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/pelvis:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/pelvis:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/pelvis:?translation/z/value",
+				"keys" : [ [ 0, -7.450581e-09 ] ]
+			},
+			{
+				"url" : "name://@selection/pelvis:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/pelvis:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/pelvis:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/pelvis:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/pelvis:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/pelvis:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/pelvis:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rEye:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rEye:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rEye:?translation/z/value",
+				"keys" : [ [ 0, 2.384186e-07 ] ]
+			},
+			{
+				"url" : "name://@selection/rEye:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rEye:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rEye:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rEye:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rEye:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rEye:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rEye:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lEye:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lEye:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lEye:?translation/z/value",
+				"keys" : [ [ 0, 2.384186e-07 ] ]
+			},
+			{
+				"url" : "name://@selection/lEye:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lEye:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lEye:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lEye:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lEye:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lEye:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lEye:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/upperJaw:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/upperJaw:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/upperJaw:?translation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/upperJaw:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/upperJaw:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/upperJaw:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/upperJaw:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/upperJaw:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/upperJaw:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/upperJaw:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/tongueTip:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/tongueTip:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/tongueTip:?translation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/tongueTip:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/tongueTip:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/tongueTip:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/tongueTip:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/tongueTip:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/tongueTip:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/tongueTip:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/tongue05:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/tongue05:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/tongue05:?translation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/tongue05:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/tongue05:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/tongue05:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/tongue05:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/tongue05:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/tongue05:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/tongue05:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/tongue04:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/tongue04:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/tongue04:?translation/z/value",
+				"keys" : [ [ 0, -8.881784e-16 ] ]
+			},
+			{
+				"url" : "name://@selection/tongue04:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/tongue04:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/tongue04:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/tongue04:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/tongue04:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/tongue04:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/tongue04:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/tongue03:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/tongue03:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/tongue03:?translation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/tongue03:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/tongue03:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/tongue03:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/tongue03:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/tongue03:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/tongue03:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/tongue03:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/tongue02:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/tongue02:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/tongue02:?translation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/tongue02:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/tongue02:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/tongue02:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/tongue02:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/tongue02:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/tongue02:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/tongue02:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/tongue01:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/tongue01:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/tongue01:?translation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/tongue01:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/tongue01:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/tongue01:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/tongue01:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/tongue01:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/tongue01:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/tongue01:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/tongueBase:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/tongueBase:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/tongueBase:?translation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/tongueBase:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/tongueBase:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/tongueBase:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/tongueBase:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/tongueBase:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/tongueBase:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/tongueBase:?scale/z/value",
+				"keys" : [ [ 0, 0.9999999 ] ]
+			},
+			{
+				"url" : "name://@selection/lowerJaw:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lowerJaw:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lowerJaw:?translation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lowerJaw:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lowerJaw:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lowerJaw:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lowerJaw:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lowerJaw:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lowerJaw:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lowerJaw:?scale/z/value",
+				"keys" : [ [ 0, 0.9999999 ] ]
+			},
+			{
+				"url" : "name://@selection/head:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/head:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/head:?translation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/head:?rotation/x/value",
+				"keys" : [ [ 0, -5.798486 ], [ 0.03333333, -5.904954 ], [ 0.06666667, -5.664666 ], [ 0.1, -5.711628 ], [ 0.1333333, -2.403929 ], [ 0.1666667, -1.27655 ], [ 0.2, -4.231898 ], [ 0.2333333, -9.203253 ], [ 0.2666667, -11.20806 ], [ 0.3, -9.604176 ], [ 0.3333333, -4.51013 ], [ 0.3666667, -5.590222 ], [ 0.4, -7.584081 ], [ 0.4333333, -10.06484 ], [ 0.4666667, -10.85446 ], [ 0.5, -10.00863 ], [ 0.5333333, -9.635748 ], [ 0.5666667, -9.813918 ], [ 0.6, -7.541957 ], [ 0.6333333, -8.284501 ], [ 0.6666667, -8.649972 ], [ 0.7, -8.024543 ], [ 0.7333333, -7.793046 ], [ 0.7666667, -6.970704 ], [ 0.8, -5.798488 ] ]
+			},
+			{
+				"url" : "name://@selection/head:?rotation/y/value",
+				"keys" : [ [ 0, 23.67674 ], [ 0.03333333, 22.33155 ], [ 0.06666667, 17.09983 ], [ 0.1, 7.521743 ], [ 0.1333333, -2.38871 ], [ 0.1666667, -8.46966 ], [ 0.2, -9.500554 ], [ 0.2333333, -8.491429 ], [ 0.2666667, -7.820745 ], [ 0.3, -15.49892 ], [ 0.3333333, -25.19864 ], [ 0.3666667, -24.78299 ], [ 0.4, -18.70767 ], [ 0.4333333, -8.949592 ], [ 0.4666667, -0.6709709 ], [ 0.5, 4.470832 ], [ 0.5333333, 7.563539 ], [ 0.5666667, 7.725362 ], [ 0.6, 9.850288 ], [ 0.6333333, 16.13273 ], [ 0.6666667, 24.12272 ], [ 0.7, 25.69668 ], [ 0.7333333, 25.6274 ], [ 0.7666667, 24.83301 ], [ 0.8, 23.67674 ] ]
+			},
+			{
+				"url" : "name://@selection/head:?rotation/z/value",
+				"keys" : [ [ 0, -4.969222 ], [ 0.03333333, -7.175139 ], [ 0.06666667, -8.669733 ], [ 0.1, -9.013993 ], [ 0.1333333, -6.305453 ], [ 0.1666667, -5.901744 ], [ 0.2, -7.531892 ], [ 0.2333333, -8.996782 ], [ 0.2666667, -8.837614 ], [ 0.3, -8.911568 ], [ 0.3333333, -5.189547 ], [ 0.3666667, -3.844437 ], [ 0.4, -4.680597 ], [ 0.4333333, -7.051248 ], [ 0.4666667, -7.766982 ], [ 0.5, -6.530718 ], [ 0.5333333, -6.946713 ], [ 0.5666667, -7.418958 ], [ 0.6, -7.404124 ], [ 0.6333333, -5.880528 ], [ 0.6666667, -5.781007 ], [ 0.7, -5.64059 ], [ 0.7333333, -5.540019 ], [ 0.7666667, -5.292056 ], [ 0.8, -4.969223 ] ]
+			},
+			{
+				"url" : "name://@selection/head:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/head:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/head:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/head:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/neck:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/neck:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/neck:?translation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/neck:?rotation/x/value",
+				"keys" : [ [ 0, -2.289034 ], [ 0.03333333, -3.840866 ], [ 0.06666667, -7.69865 ], [ 0.1, -9.381347 ], [ 0.1333333, -11.14525 ], [ 0.1666667, -7.1271 ], [ 0.2, -2.327758 ], [ 0.2333333, -1.63349 ], [ 0.2666667, -2.877366 ], [ 0.3, -0.2382564 ], [ 0.3333333, 7.108775 ], [ 0.3666667, 13.43232 ], [ 0.4, 12.3929 ], [ 0.4333333, 7.054397 ], [ 0.4666667, 1.670001 ], [ 0.5, -3.031009 ], [ 0.5333333, -2.722652 ], [ 0.5666667, -0.4486191 ], [ 0.6, 0.3754327 ], [ 0.6333333, -1.853886 ], [ 0.6666667, -5.361833 ], [ 0.7, -5.846003 ], [ 0.7333333, -4.23478 ], [ 0.7666667, -3.08545 ], [ 0.8, -2.289036 ] ]
+			},
+			{
+				"url" : "name://@selection/neck:?rotation/y/value",
+				"keys" : [ [ 0, 9.176556 ], [ 0.03333333, 8.500589 ], [ 0.06666667, 6.291208 ], [ 0.1, 2.697453 ], [ 0.1333333, -0.4448458 ], [ 0.1666667, -2.493662 ], [ 0.2, -3.757052 ], [ 0.2333333, -4.750741 ], [ 0.2666667, -5.720759 ], [ 0.3, -9.535001 ], [ 0.3333333, -12.34121 ], [ 0.3666667, -11.26485 ], [ 0.4, -9.376252 ], [ 0.4333333, -6.872941 ], [ 0.4666667, -4.155191 ], [ 0.5, -1.577491 ], [ 0.5333333, 0.1470672 ], [ 0.5666667, 0.8200151 ], [ 0.6, 2.414869 ], [ 0.6333333, 5.42688 ], [ 0.6666667, 8.757155 ], [ 0.7, 9.494601 ], [ 0.7333333, 9.5417 ], [ 0.7666667, 9.402353 ], [ 0.8, 9.176557 ] ]
+			},
+			{
+				"url" : "name://@selection/neck:?rotation/z/value",
+				"keys" : [ [ 0, -3.766085 ], [ 0.03333333, -2.949214 ], [ 0.06666667, -0.07259975 ], [ 0.1, 1.597497 ], [ 0.1333333, 1.97389 ], [ 0.1666667, 2.41468 ], [ 0.2, 4.817975 ], [ 0.2333333, 5.708431 ], [ 0.2666667, 4.481877 ], [ 0.3, 7.480184 ], [ 0.3333333, 10.14973 ], [ 0.3666667, 8.592608 ], [ 0.4, 6.775223 ], [ 0.4333333, 4.567494 ], [ 0.4666667, 3.267928 ], [ 0.5, 2.165284 ], [ 0.5333333, -0.06614058 ], [ 0.5666667, -0.275206 ], [ 0.6, -0.3919136 ], [ 0.6333333, -1.210504 ], [ 0.6666667, -2.506894 ], [ 0.7, -3.619012 ], [ 0.7333333, -4.599059 ], [ 0.7666667, -4.481052 ], [ 0.8, -3.766087 ] ]
+			},
+			{
+				"url" : "name://@selection/neck:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/neck:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/neck:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/neck:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rThumb3:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rThumb3:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rThumb3:?translation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rThumb3:?rotation/x/value",
+				"keys" : [ [ 0, -8.629787e-06 ] ]
+			},
+			{
+				"url" : "name://@selection/rThumb3:?rotation/y/value",
+				"keys" : [ [ 0, 4.545034e-06 ] ]
+			},
+			{
+				"url" : "name://@selection/rThumb3:?rotation/z/value",
+				"keys" : [ [ 0, 2.286482e-06 ] ]
+			},
+			{
+				"url" : "name://@selection/rThumb3:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rThumb3:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rThumb3:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rThumb3:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rThumb2:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rThumb2:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rThumb2:?translation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rThumb2:?rotation/x/value",
+				"keys" : [ [ 0, 14.98347 ] ]
+			},
+			{
+				"url" : "name://@selection/rThumb2:?rotation/y/value",
+				"keys" : [ [ 0, 28.67475 ] ]
+			},
+			{
+				"url" : "name://@selection/rThumb2:?rotation/z/value",
+				"keys" : [ [ 0, 3.610506 ] ]
+			},
+			{
+				"url" : "name://@selection/rThumb2:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rThumb2:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rThumb2:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rThumb2:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rThumb1:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rThumb1:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rThumb1:?translation/z/value",
+				"keys" : [ [ 0, -8.881784e-16 ] ]
+			},
+			{
+				"url" : "name://@selection/rThumb1:?rotation/x/value",
+				"keys" : [ [ 0, -2.923658 ] ]
+			},
+			{
+				"url" : "name://@selection/rThumb1:?rotation/y/value",
+				"keys" : [ [ 0, -43.16221 ] ]
+			},
+			{
+				"url" : "name://@selection/rThumb1:?rotation/z/value",
+				"keys" : [ [ 0, 32.86415 ] ]
+			},
+			{
+				"url" : "name://@selection/rThumb1:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rThumb1:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rThumb1:?scale/y/value",
+				"keys" : [ [ 0, 0.9999999 ] ]
+			},
+			{
+				"url" : "name://@selection/rThumb1:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rIndex3:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rIndex3:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rIndex3:?translation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rIndex3:?rotation/x/value",
+				"keys" : [ [ 0, 3.214254e-07 ] ]
+			},
+			{
+				"url" : "name://@selection/rIndex3:?rotation/y/value",
+				"keys" : [ [ 0, -9.645431e-06 ] ]
+			},
+			{
+				"url" : "name://@selection/rIndex3:?rotation/z/value",
+				"keys" : [ [ 0, -2.687177e-06 ] ]
+			},
+			{
+				"url" : "name://@selection/rIndex3:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rIndex3:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rIndex3:?scale/y/value",
+				"keys" : [ [ 0, 0.9999999 ] ]
+			},
+			{
+				"url" : "name://@selection/rIndex3:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rIndex2:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rIndex2:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rIndex2:?translation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rIndex2:?rotation/x/value",
+				"keys" : [ [ 0, 12.46913 ] ]
+			},
+			{
+				"url" : "name://@selection/rIndex2:?rotation/y/value",
+				"keys" : [ [ 0, 16.5246 ] ]
+			},
+			{
+				"url" : "name://@selection/rIndex2:?rotation/z/value",
+				"keys" : [ [ 0, 49.64101 ] ]
+			},
+			{
+				"url" : "name://@selection/rIndex2:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rIndex2:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rIndex2:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rIndex2:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rIndex1:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rIndex1:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rIndex1:?translation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rIndex1:?rotation/x/value",
+				"keys" : [ [ 0, 0.5381087 ] ]
+			},
+			{
+				"url" : "name://@selection/rIndex1:?rotation/y/value",
+				"keys" : [ [ 0, 8.22859 ] ]
+			},
+			{
+				"url" : "name://@selection/rIndex1:?rotation/z/value",
+				"keys" : [ [ 0, 55.92177 ] ]
+			},
+			{
+				"url" : "name://@selection/rIndex1:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rIndex1:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rIndex1:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rIndex1:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rMid3:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rMid3:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rMid3:?translation/z/value",
+				"keys" : [ [ 0, -1.776357e-15 ] ]
+			},
+			{
+				"url" : "name://@selection/rMid3:?rotation/x/value",
+				"keys" : [ [ 0, -4.710649e-06 ] ]
+			},
+			{
+				"url" : "name://@selection/rMid3:?rotation/y/value",
+				"keys" : [ [ 0, -1.581716e-07 ] ]
+			},
+			{
+				"url" : "name://@selection/rMid3:?rotation/z/value",
+				"keys" : [ [ 0, 8.839872e-06 ] ]
+			},
+			{
+				"url" : "name://@selection/rMid3:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rMid3:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rMid3:?scale/y/value",
+				"keys" : [ [ 0, 0.9999999 ] ]
+			},
+			{
+				"url" : "name://@selection/rMid3:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rMid2:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rMid2:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rMid2:?translation/z/value",
+				"keys" : [ [ 0, 1.776357e-15 ] ]
+			},
+			{
+				"url" : "name://@selection/rMid2:?rotation/x/value",
+				"keys" : [ [ 0, 11.67248 ] ]
+			},
+			{
+				"url" : "name://@selection/rMid2:?rotation/y/value",
+				"keys" : [ [ 0, 8.266061 ] ]
+			},
+			{
+				"url" : "name://@selection/rMid2:?rotation/z/value",
+				"keys" : [ [ 0, 72.52093 ] ]
+			},
+			{
+				"url" : "name://@selection/rMid2:?scale/general/value",
+				"keys" : [ [ 0, 0.9999999 ] ]
+			},
+			{
+				"url" : "name://@selection/rMid2:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rMid2:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rMid2:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rMid1:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rMid1:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rMid1:?translation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rMid1:?rotation/x/value",
+				"keys" : [ [ 0, 10.756 ] ]
+			},
+			{
+				"url" : "name://@selection/rMid1:?rotation/y/value",
+				"keys" : [ [ 0, 12.36401 ] ]
+			},
+			{
+				"url" : "name://@selection/rMid1:?rotation/z/value",
+				"keys" : [ [ 0, 63.87845 ] ]
+			},
+			{
+				"url" : "name://@selection/rMid1:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rMid1:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rMid1:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rMid1:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rCarpal1:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rCarpal1:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rCarpal1:?translation/z/value",
+				"keys" : [ [ 0, 8.881784e-16 ] ]
+			},
+			{
+				"url" : "name://@selection/rCarpal1:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rCarpal1:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rCarpal1:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rCarpal1:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rCarpal1:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rCarpal1:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rCarpal1:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rRing3:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rRing3:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rRing3:?translation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rRing3:?rotation/x/value",
+				"keys" : [ [ 0, 4.427991e-06 ] ]
+			},
+			{
+				"url" : "name://@selection/rRing3:?rotation/y/value",
+				"keys" : [ [ 0, 7.811819e-07 ] ]
+			},
+			{
+				"url" : "name://@selection/rRing3:?rotation/z/value",
+				"keys" : [ [ 0, -8.952164e-06 ] ]
+			},
+			{
+				"url" : "name://@selection/rRing3:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rRing3:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rRing3:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rRing3:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rRing2:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rRing2:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rRing2:?translation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rRing2:?rotation/x/value",
+				"keys" : [ [ 0, 2.851082 ] ]
+			},
+			{
+				"url" : "name://@selection/rRing2:?rotation/y/value",
+				"keys" : [ [ 0, 5.319077 ] ]
+			},
+			{
+				"url" : "name://@selection/rRing2:?rotation/z/value",
+				"keys" : [ [ 0, 62.86172 ] ]
+			},
+			{
+				"url" : "name://@selection/rRing2:?scale/general/value",
+				"keys" : [ [ 0, 0.9999999 ] ]
+			},
+			{
+				"url" : "name://@selection/rRing2:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rRing2:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rRing2:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rRing1:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rRing1:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rRing1:?translation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rRing1:?rotation/x/value",
+				"keys" : [ [ 0, 13.97896 ] ]
+			},
+			{
+				"url" : "name://@selection/rRing1:?rotation/y/value",
+				"keys" : [ [ 0, 6.014887 ] ]
+			},
+			{
+				"url" : "name://@selection/rRing1:?rotation/z/value",
+				"keys" : [ [ 0, 74.0603 ] ]
+			},
+			{
+				"url" : "name://@selection/rRing1:?scale/general/value",
+				"keys" : [ [ 0, 0.9999999 ] ]
+			},
+			{
+				"url" : "name://@selection/rRing1:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rRing1:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rRing1:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rPinky3:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rPinky3:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rPinky3:?translation/z/value",
+				"keys" : [ [ 0, -1.776357e-15 ] ]
+			},
+			{
+				"url" : "name://@selection/rPinky3:?rotation/x/value",
+				"keys" : [ [ 0, -4.234604e-06 ] ]
+			},
+			{
+				"url" : "name://@selection/rPinky3:?rotation/y/value",
+				"keys" : [ [ 0, -6.655966e-06 ] ]
+			},
+			{
+				"url" : "name://@selection/rPinky3:?rotation/z/value",
+				"keys" : [ [ 0, 6.174529e-06 ] ]
+			},
+			{
+				"url" : "name://@selection/rPinky3:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rPinky3:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rPinky3:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rPinky3:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rPinky2:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rPinky2:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rPinky2:?translation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rPinky2:?rotation/x/value",
+				"keys" : [ [ 0, -0.6636711 ] ]
+			},
+			{
+				"url" : "name://@selection/rPinky2:?rotation/y/value",
+				"keys" : [ [ 0, 1.423432 ] ]
+			},
+			{
+				"url" : "name://@selection/rPinky2:?rotation/z/value",
+				"keys" : [ [ 0, 41.17901 ] ]
+			},
+			{
+				"url" : "name://@selection/rPinky2:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rPinky2:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rPinky2:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rPinky2:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rPinky1:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rPinky1:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rPinky1:?translation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rPinky1:?rotation/x/value",
+				"keys" : [ [ 0, 21.3869 ] ]
+			},
+			{
+				"url" : "name://@selection/rPinky1:?rotation/y/value",
+				"keys" : [ [ 0, 6.351189 ] ]
+			},
+			{
+				"url" : "name://@selection/rPinky1:?rotation/z/value",
+				"keys" : [ [ 0, 82.81958 ] ]
+			},
+			{
+				"url" : "name://@selection/rPinky1:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rPinky1:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rPinky1:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rPinky1:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rCarpal2:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rCarpal2:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rCarpal2:?translation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rCarpal2:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rCarpal2:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rCarpal2:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rCarpal2:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rCarpal2:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rCarpal2:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rCarpal2:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rHand:?translation/x/value",
+				"keys" : [ [ 0, 7.105427e-15 ] ]
+			},
+			{
+				"url" : "name://@selection/rHand:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rHand:?translation/z/value",
+				"keys" : [ [ 0, -2.384186e-07 ] ]
+			},
+			{
+				"url" : "name://@selection/rHand:?rotation/x/value",
+				"keys" : [ [ 0, 20.45691 ], [ 0.03333333, 18.61804 ], [ 0.06666667, 13.30573 ], [ 0.1, 13.03074 ], [ 0.1333333, 17.0171 ], [ 0.1666667, 20.16843 ], [ 0.2, 19.46533 ], [ 0.2333333, 17.03833 ], [ 0.2666667, 15.71862 ], [ 0.3, 15.46641 ], [ 0.3333333, 16.86415 ], [ 0.3666667, 17.14021 ], [ 0.4, 16.48758 ], [ 0.4333333, 16.36363 ], [ 0.4666667, 17.6126 ], [ 0.5, 17.07992 ], [ 0.5333333, 16.4059 ], [ 0.5666667, 16.60026 ], [ 0.6, 17.15442 ], [ 0.6333333, 16.79884 ], [ 0.6666667, 17.05834 ], [ 0.7, 17.68431 ], [ 0.7333333, 19.35667 ], [ 0.7666667, 19.97597 ], [ 0.8, 20.45692 ] ]
+			},
+			{
+				"url" : "name://@selection/rHand:?rotation/y/value",
+				"keys" : [ [ 0, 17.71514 ], [ 0.03333333, 13.32255 ], [ 0.06666667, -1.783313 ], [ 0.1, -7.952888 ], [ 0.1333333, 5.74701 ], [ 0.1666667, 20.99257 ], [ 0.2, 21.95029 ], [ 0.2333333, 21.91296 ], [ 0.2666667, 21.1942 ], [ 0.3, 17.0224 ], [ 0.3333333, 8.971198 ], [ 0.3666667, -3.624207 ], [ 0.4, -2.654132 ], [ 0.4333333, 8.993464 ], [ 0.4666667, 20.69498 ], [ 0.5, 15.57887 ], [ 0.5333333, 10.92649 ], [ 0.5666667, 11.38 ], [ 0.6, 12.10863 ], [ 0.6333333, 10.736 ], [ 0.6666667, 10.3153 ], [ 0.7, 13.16345 ], [ 0.7333333, 16.75293 ], [ 0.7666667, 17.8005 ], [ 0.8, 17.71514 ] ]
+			},
+			{
+				"url" : "name://@selection/rHand:?rotation/z/value",
+				"keys" : [ [ 0, 18.04253 ], [ 0.03333333, 17.88149 ], [ 0.06666667, 18.27047 ], [ 0.1, 10.73101 ], [ 0.1333333, 11.53485 ], [ 0.1666667, 9.110472 ], [ 0.2, 3.343168 ], [ 0.2333333, -5.44708 ], [ 0.2666667, -7.488388 ], [ 0.3, -6.665785 ], [ 0.3333333, -0.3108054 ], [ 0.3666667, 4.466336 ], [ 0.4, 0.3013611 ], [ 0.4333333, -2.381855 ], [ 0.4666667, 0.3681492 ], [ 0.5, -0.3265508 ], [ 0.5333333, -0.7901567 ], [ 0.5666667, 1.87738 ], [ 0.6, 7.141502 ], [ 0.6333333, 9.910389 ], [ 0.6666667, 14.78177 ], [ 0.7, 15.29434 ], [ 0.7333333, 15.82286 ], [ 0.7666667, 16.03983 ], [ 0.8, 18.04253 ] ]
+			},
+			{
+				"url" : "name://@selection/rHand:?scale/general/value",
+				"keys" : [ [ 0, 0.9999999 ] ]
+			},
+			{
+				"url" : "name://@selection/rHand:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rHand:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rHand:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rForeArm:?translation/x/value",
+				"keys" : [ [ 0, 3.552714e-15 ] ]
+			},
+			{
+				"url" : "name://@selection/rForeArm:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rForeArm:?translation/z/value",
+				"keys" : [ [ 0, -4.440892e-16 ] ]
+			},
+			{
+				"url" : "name://@selection/rForeArm:?rotation/x/value",
+				"keys" : [ [ 0, -6.158986 ], [ 0.03333333, -8.787814 ], [ 0.06666667, -12.34612 ], [ 0.1, -24.23182 ], [ 0.1333333, -32.15857 ], [ 0.1666667, -22.5802 ], [ 0.2, -14.91589 ], [ 0.2333333, -6.880072 ], [ 0.2666667, -1.460313 ], [ 0.3, 3.642544 ], [ 0.3333333, 13.81873 ], [ 0.3666667, 17.489 ], [ 0.4, 17.67727 ], [ 0.4333333, 9.946009 ], [ 0.4666667, -1.934178 ], [ 0.5, -8.447016 ], [ 0.5333333, -9.638859 ], [ 0.5666667, -13.53859 ], [ 0.6, -21.17822 ], [ 0.6333333, -21.05124 ], [ 0.6666667, -17.56778 ], [ 0.7, -13.66871 ], [ 0.7333333, -11.06942 ], [ 0.7666667, -7.814989 ], [ 0.8, -6.158996 ] ]
+			},
+			{
+				"url" : "name://@selection/rForeArm:?rotation/y/value",
+				"keys" : [ [ 0, 55.39981 ], [ 0.03333333, 63.33294 ], [ 0.06666667, 73.75878 ], [ 0.1, 67.39765 ], [ 0.1333333, 31.62235 ], [ 0.1666667, -1.766744 ], [ 0.2, -1.128129 ], [ 0.2333333, 2.256191 ], [ 0.2666667, -0.09833998 ], [ 0.3, -5.494746 ], [ 0.3333333, -5.36148 ], [ 0.3666667, 15.49111 ], [ 0.4, 19.30717 ], [ 0.4333333, 2.75173 ], [ 0.4666667, -8.279181 ], [ 0.5, 11.37236 ], [ 0.5333333, 29.04248 ], [ 0.5666667, 38.71158 ], [ 0.6, 47.86688 ], [ 0.6333333, 54.56451 ], [ 0.6666667, 58.14174 ], [ 0.7, 59.53771 ], [ 0.7333333, 57.9082 ], [ 0.7666667, 56.12978 ], [ 0.8, 55.39983 ] ]
+			},
+			{
+				"url" : "name://@selection/rForeArm:?rotation/z/value",
+				"keys" : [ [ 0, 1.088359 ], [ 0.03333333, -1.044692 ], [ 0.06666667, -2.235155 ], [ 0.1, 1.042034 ], [ 0.1333333, 6.755974 ], [ 0.1666667, 5.67878 ], [ 0.2, 4.121739 ], [ 0.2333333, 5.589904 ], [ 0.2666667, 7.38352 ], [ 0.3, 7.81474 ], [ 0.3333333, 8.801326 ], [ 0.3666667, 11.51519 ], [ 0.4, 9.312681 ], [ 0.4333333, 4.729866 ], [ 0.4666667, 3.361088 ], [ 0.5, 4.01863 ], [ 0.5333333, 3.597903 ], [ 0.5666667, 3.101183 ], [ 0.6, 2.182639 ], [ 0.6333333, 0.9766532 ], [ 0.6666667, -0.01501162 ], [ 0.7, -0.2106385 ], [ 0.7333333, 0.2872805 ], [ 0.7666667, 0.8402528 ], [ 0.8, 1.08836 ] ]
+			},
+			{
+				"url" : "name://@selection/rForeArm:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rForeArm:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rForeArm:?scale/y/value",
+				"keys" : [ [ 0, 0.9999999 ] ]
+			},
+			{
+				"url" : "name://@selection/rForeArm:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rShldr:?translation/x/value",
+				"keys" : [ [ 0, -2.384186e-07 ] ]
+			},
+			{
+				"url" : "name://@selection/rShldr:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rShldr:?translation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rShldr:?rotation/x/value",
+				"keys" : [ [ 0, -1.056256 ], [ 0.03333333, 3.731613 ], [ 0.06666667, 3.102341 ], [ 0.1, -3.610599 ], [ 0.1333333, -20.15944 ], [ 0.1666667, -31.5004 ], [ 0.2, -23.54205 ], [ 0.2333333, -22.96587 ], [ 0.2666667, -24.68679 ], [ 0.3, -22.49502 ], [ 0.3333333, -22.69933 ], [ 0.3666667, -19.2536 ], [ 0.4, -17.70323 ], [ 0.4333333, -15.55253 ], [ 0.4666667, -9.558066 ], [ 0.5, -3.986725 ], [ 0.5333333, -4.871159 ], [ 0.5666667, -2.270091 ], [ 0.6, 5.658261 ], [ 0.6333333, 7.969 ], [ 0.6666667, 7.098855 ], [ 0.7, 3.694766 ], [ 0.7333333, -0.803108 ], [ 0.7666667, -1.917974 ], [ 0.8, -1.056262 ] ]
+			},
+			{
+				"url" : "name://@selection/rShldr:?rotation/y/value",
+				"keys" : [ [ 0, -4.638754 ], [ 0.03333333, -1.89716 ], [ 0.06666667, 7.717248 ], [ 0.1, 29.48408 ], [ 0.1333333, 51.69802 ], [ 0.1666667, 56.42901 ], [ 0.2, 38.60065 ], [ 0.2333333, 17.82936 ], [ 0.2666667, -0.4342285 ], [ 0.3, -16.66882 ], [ 0.3333333, -28.58157 ], [ 0.3666667, -41.8674 ], [ 0.4, -39.62828 ], [ 0.4333333, -21.63765 ], [ 0.4666667, -1.23329 ], [ 0.5, 4.839871 ], [ 0.5333333, 6.657904 ], [ 0.5666667, 9.509201 ], [ 0.6, 6.183926 ], [ 0.6333333, 2.501067 ], [ 0.6666667, 0.05567639 ], [ 0.7, -2.438334 ], [ 0.7333333, -4.988502 ], [ 0.7666667, -5.020201 ], [ 0.8, -4.638777 ] ]
+			},
+			{
+				"url" : "name://@selection/rShldr:?rotation/z/value",
+				"keys" : [ [ 0, 49.86079 ], [ 0.03333333, 45.05042 ], [ 0.06666667, 40.45288 ], [ 0.1, 28.9476 ], [ 0.1333333, 12.00113 ], [ 0.1666667, 0.6418028 ], [ 0.2, 8.439828 ], [ 0.2333333, 12.69491 ], [ 0.2666667, 18.06289 ], [ 0.3, 30.56931 ], [ 0.3333333, 44.45614 ], [ 0.3666667, 47.07577 ], [ 0.4, 47.88192 ], [ 0.4333333, 46.79081 ], [ 0.4666667, 42.48312 ], [ 0.5, 40.56572 ], [ 0.5333333, 39.31211 ], [ 0.5666667, 39.89165 ], [ 0.6, 37.63862 ], [ 0.6333333, 37.65245 ], [ 0.6666667, 37.64569 ], [ 0.7, 40.2028 ], [ 0.7333333, 43.88964 ], [ 0.7666667, 47.36319 ], [ 0.8, 49.8608 ] ]
+			},
+			{
+				"url" : "name://@selection/rShldr:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rShldr:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rShldr:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rShldr:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rCollar:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rCollar:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rCollar:?translation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rCollar:?rotation/x/value",
+				"keys" : [ [ 0, -1.664805 ], [ 0.03333333, -0.9923578 ], [ 0.06666667, 0.3401726 ], [ 0.1, 1.319415 ], [ 0.1333333, -1.604272 ], [ 0.1666667, -2.776977 ], [ 0.2, -2.656787 ], [ 0.2333333, -2.60938 ], [ 0.2666667, -3.11277 ], [ 0.3, -2.446917 ], [ 0.3333333, 0.9676 ], [ 0.3666667, 3.402768 ], [ 0.4, 4.013476 ], [ 0.4333333, 3.417694 ], [ 0.4666667, 2.920397 ], [ 0.5, 1.638327 ], [ 0.5333333, 0.2029863 ], [ 0.5666667, -0.7893095 ], [ 0.6, -0.8705914 ], [ 0.6333333, -0.621199 ], [ 0.6666667, -0.4733906 ], [ 0.7, -1.206421 ], [ 0.7333333, -1.831892 ], [ 0.7666667, -1.922145 ], [ 0.8, -1.664815 ] ]
+			},
+			{
+				"url" : "name://@selection/rCollar:?rotation/y/value",
+				"keys" : [ [ 0, -20.83044 ], [ 0.03333333, -17.3029 ], [ 0.06666667, -11.75029 ], [ 0.1, -4.222684 ], [ 0.1333333, 1.187743 ], [ 0.1666667, 5.429998 ], [ 0.2, 9.481897 ], [ 0.2333333, 13.60856 ], [ 0.2666667, 16.27416 ], [ 0.3, 10.05541 ], [ 0.3333333, -4.819092 ], [ 0.3666667, -17.24287 ], [ 0.4, -18.18308 ], [ 0.4333333, -10.24514 ], [ 0.4666667, -0.823085 ], [ 0.5, 4.87809 ], [ 0.5333333, 9.038096 ], [ 0.5666667, 6.881847 ], [ 0.6, 2.250721 ], [ 0.6333333, -0.9560892 ], [ 0.6666667, -3.687596 ], [ 0.7, -9.038927 ], [ 0.7333333, -12.08323 ], [ 0.7666667, -16.59241 ], [ 0.8, -20.83043 ] ]
+			},
+			{
+				"url" : "name://@selection/rCollar:?rotation/z/value",
+				"keys" : [ [ 0, 2.0215 ], [ 0.03333333, 2.964063 ], [ 0.06666667, 6.666335 ], [ 0.1, 10.8343 ], [ 0.1333333, 5.90858 ], [ 0.1666667, 3.973583 ], [ 0.2, 5.253535 ], [ 0.2333333, 7.021146 ], [ 0.2666667, 7.566282 ], [ 0.3, 4.825048 ], [ 0.3333333, -0.03888489 ], [ 0.3666667, -4.707439 ], [ 0.4, -4.860723 ], [ 0.4333333, 1.763389 ], [ 0.4666667, 9.441652 ], [ 0.5, 11.26148 ], [ 0.5333333, 11.79702 ], [ 0.5666667, 10.27074 ], [ 0.6, 10.01491 ], [ 0.6333333, 11.42351 ], [ 0.6666667, 12.11394 ], [ 0.7, 8.727631 ], [ 0.7333333, 6.411024 ], [ 0.7666667, 3.934383 ], [ 0.8, 2.021503 ] ]
+			},
+			{
+				"url" : "name://@selection/rCollar:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rCollar:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rCollar:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rCollar:?scale/z/value",
+				"keys" : [ [ 0, 0.9999999 ] ]
+			},
+			{
+				"url" : "name://@selection/lThumb3:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lThumb3:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lThumb3:?translation/z/value",
+				"keys" : [ [ 0, 1.776357e-15 ] ]
+			},
+			{
+				"url" : "name://@selection/lThumb3:?rotation/x/value",
+				"keys" : [ [ 0, -8.629787e-06 ] ]
+			},
+			{
+				"url" : "name://@selection/lThumb3:?rotation/y/value",
+				"keys" : [ [ 0, -4.545034e-06 ] ]
+			},
+			{
+				"url" : "name://@selection/lThumb3:?rotation/z/value",
+				"keys" : [ [ 0, -2.286482e-06 ] ]
+			},
+			{
+				"url" : "name://@selection/lThumb3:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lThumb3:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lThumb3:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lThumb3:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lThumb2:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lThumb2:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lThumb2:?translation/z/value",
+				"keys" : [ [ 0, -1.776357e-15 ] ]
+			},
+			{
+				"url" : "name://@selection/lThumb2:?rotation/x/value",
+				"keys" : [ [ 0, 12.54566 ], [ 0.03333333, 14.44925 ], [ 0.06666667, 16.41552 ], [ 0.1, 18.3724 ], [ 0.1333333, 20.24583 ], [ 0.1666667, 21.95998 ], [ 0.2, 23.63581 ], [ 0.2333333, 25.40995 ], [ 0.2666667, 27.15986 ], [ 0.3, 28.75453 ], [ 0.3333333, 30.06058 ], [ 0.3666667, 30.94311 ], [ 0.4, 31.26722 ], [ 0.4333333, 30.96953 ], [ 0.4666667, 30.15856 ], [ 0.5, 28.93018 ], [ 0.5333333, 27.37787 ], [ 0.5666667, 25.59453 ], [ 0.6, 23.67189 ], [ 0.6333333, 21.69974 ], [ 0.6666667, 19.76588 ], [ 0.7, 17.95578 ], [ 0.7333333, 16.23522 ], [ 0.7666667, 14.39177 ], [ 0.8, 12.54566 ] ]
+			},
+			{
+				"url" : "name://@selection/lThumb2:?rotation/y/value",
+				"keys" : [ [ 0, -5.262467 ], [ 0.03333333, -6.793806 ], [ 0.06666667, -8.366543 ], [ 0.1, -9.923265 ], [ 0.1333333, -11.40626 ], [ 0.1666667, -12.75734 ], [ 0.2, -14.07313 ], [ 0.2333333, -15.46107 ], [ 0.2666667, -16.82527 ], [ 0.3, -18.06464 ], [ 0.3333333, -19.07714 ], [ 0.3666667, -19.76013 ], [ 0.4, -20.01068 ], [ 0.4333333, -19.78053 ], [ 0.4666667, -19.15303 ], [ 0.5, -18.20098 ], [ 0.5333333, -16.99493 ], [ 0.5666667, -15.60517 ], [ 0.6, -14.10134 ], [ 0.6333333, -12.55253 ], [ 0.6666667, -11.02697 ], [ 0.7, -9.59252 ], [ 0.7333333, -8.222667 ], [ 0.7666667, -6.74768 ], [ 0.8, -5.262475 ] ]
+			},
+			{
+				"url" : "name://@selection/lThumb2:?rotation/z/value",
+				"keys" : [ [ 0, -3.31979 ], [ 0.03333333, -2.490937 ], [ 0.06666667, -1.643158 ], [ 0.1, -0.8078616 ], [ 0.1333333, -0.01602659 ], [ 0.1666667, 0.7017718 ], [ 0.2, 1.397542 ], [ 0.2333333, 2.127503 ], [ 0.2666667, 2.840799 ], [ 0.3, 3.484996 ], [ 0.3333333, 4.008487 ], [ 0.3666667, 4.360082 ], [ 0.4, 4.48879 ], [ 0.4333333, 4.370573 ], [ 0.4666667, 4.047589 ], [ 0.5, 3.555607 ], [ 0.5333333, 2.929192 ], [ 0.5666667, 2.2031 ], [ 0.6, 1.412561 ], [ 0.6333333, 0.5933706 ], [ 0.6666667, -0.218134 ], [ 0.7, -0.9850565 ], [ 0.7333333, -1.720575 ], [ 0.7666667, -2.515878 ], [ 0.8, -3.319795 ] ]
+			},
+			{
+				"url" : "name://@selection/lThumb2:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lThumb2:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lThumb2:?scale/y/value",
+				"keys" : [ [ 0, 0.9999999 ] ]
+			},
+			{
+				"url" : "name://@selection/lThumb2:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lThumb1:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lThumb1:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lThumb1:?translation/z/value",
+				"keys" : [ [ 0, 8.881784e-16 ] ]
+			},
+			{
+				"url" : "name://@selection/lThumb1:?rotation/x/value",
+				"keys" : [ [ 0, -3.101877 ], [ 0.03333333, -4.996307 ], [ 0.06666667, -6.948411 ], [ 0.1, -8.945146 ], [ 0.1333333, -10.95531 ], [ 0.1666667, -12.92715 ], [ 0.2, -14.83309 ], [ 0.2333333, -16.60507 ], [ 0.2666667, -18.15679 ], [ 0.3, -19.82801 ], [ 0.3333333, -21.53962 ], [ 0.3666667, -22.92271 ], [ 0.4, -23.51809 ], [ 0.4333333, -22.78819 ], [ 0.4666667, -20.84757 ], [ 0.5, -18.39162 ], [ 0.5333333, -16.19498 ], [ 0.5666667, -14.42773 ], [ 0.6, -12.86226 ], [ 0.6333333, -11.44819 ], [ 0.6666667, -10.07619 ], [ 0.7, -8.611725 ], [ 0.7333333, -6.914525 ], [ 0.7666667, -5.003053 ], [ 0.8, -3.101876 ] ]
+			},
+			{
+				"url" : "name://@selection/lThumb1:?rotation/y/value",
+				"keys" : [ [ 0, 17.73492 ], [ 0.03333333, 16.78246 ], [ 0.06666667, 15.70248 ], [ 0.1, 14.74248 ], [ 0.1333333, 14.12245 ], [ 0.1666667, 14.041 ], [ 0.2, 15.12465 ], [ 0.2333333, 16.84108 ], [ 0.2666667, 17.36432 ], [ 0.3, 16.51583 ], [ 0.3333333, 15.04723 ], [ 0.3666667, 13.36882 ], [ 0.4, 11.77646 ], [ 0.4333333, 9.993699 ], [ 0.4666667, 7.758264 ], [ 0.5, 5.854602 ], [ 0.5333333, 5.127153 ], [ 0.5666667, 5.894895 ], [ 0.6, 7.746224 ], [ 0.6333333, 10.26347 ], [ 0.6666667, 12.95055 ], [ 0.7, 15.22063 ], [ 0.7333333, 16.53363 ], [ 0.7666667, 17.15874 ], [ 0.8, 17.73491 ] ]
+			},
+			{
+				"url" : "name://@selection/lThumb1:?rotation/z/value",
+				"keys" : [ [ 0, -13.12472 ], [ 0.03333333, -9.832352 ], [ 0.06666667, -6.219206 ], [ 0.1, -2.751697 ], [ 0.1333333, 0.1020272 ], [ 0.1666667, 1.875165 ], [ 0.2, 1.289028 ], [ 0.2333333, -0.605395 ], [ 0.2666667, -0.3578978 ], [ 0.3, 2.694761 ], [ 0.3333333, 7.113688 ], [ 0.3666667, 11.75487 ], [ 0.4, 15.48104 ], [ 0.4333333, 18.11353 ], [ 0.4666667, 20.33636 ], [ 0.5, 21.43943 ], [ 0.5333333, 20.62362 ], [ 0.5666667, 17.46553 ], [ 0.6, 12.57998 ], [ 0.6333333, 6.803384 ], [ 0.6666667, 0.9794308 ], [ 0.7, -4.057468 ], [ 0.7333333, -7.695453 ], [ 0.7666667, -10.45063 ], [ 0.8, -13.1247 ] ]
+			},
+			{
+				"url" : "name://@selection/lThumb1:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lThumb1:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lThumb1:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lThumb1:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lIndex3:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lIndex3:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lIndex3:?translation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lIndex3:?rotation/x/value",
+				"keys" : [ [ 0, 5.782998e-06 ] ]
+			},
+			{
+				"url" : "name://@selection/lIndex3:?rotation/y/value",
+				"keys" : [ [ 0, 6.33133e-07 ] ]
+			},
+			{
+				"url" : "name://@selection/lIndex3:?rotation/z/value",
+				"keys" : [ [ 0, 8.155651e-06 ] ]
+			},
+			{
+				"url" : "name://@selection/lIndex3:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lIndex3:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lIndex3:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lIndex3:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lIndex2:?translation/x/value",
+				"keys" : [ [ 0, -1.421085e-14 ] ]
+			},
+			{
+				"url" : "name://@selection/lIndex2:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lIndex2:?translation/z/value",
+				"keys" : [ [ 0, 1.776357e-15 ] ]
+			},
+			{
+				"url" : "name://@selection/lIndex2:?rotation/x/value",
+				"keys" : [ [ 0, 12.69983 ], [ 0.03333333, 10.75357 ], [ 0.06666667, 8.812263 ], [ 0.1, 6.984493 ], [ 0.1333333, 5.359941 ], [ 0.1666667, 4.000477 ], [ 0.2, 2.944305 ], [ 0.2333333, 2.134753 ], [ 0.2666667, 1.477065 ], [ 0.3, 0.9273979 ], [ 0.3333333, 0.4729539 ], [ 0.3666667, 0.09942912 ], [ 0.4, -0.2059139 ], [ 0.4333333, -0.5213958 ], [ 0.4666667, -0.8343813 ], [ 0.5, -0.9641107 ], [ 0.5333333, -0.8314082 ], [ 0.5666667, -0.2301701 ], [ 0.6, 0.9394956 ], [ 0.6333333, 2.715691 ], [ 0.6666667, 4.933448 ], [ 0.7, 7.214319 ], [ 0.7333333, 9.171718 ], [ 0.7666667, 10.92722 ], [ 0.8, 12.69985 ] ]
+			},
+			{
+				"url" : "name://@selection/lIndex2:?rotation/y/value",
+				"keys" : [ [ 0, -16.54221 ], [ 0.03333333, -16.277 ], [ 0.06666667, -15.76002 ], [ 0.1, -15.01544 ], [ 0.1333333, -14.10601 ], [ 0.1666667, -13.12405 ], [ 0.2, -12.18462 ], [ 0.2333333, -11.33057 ], [ 0.2666667, -10.52671 ], [ 0.3, -9.757663 ], [ 0.3333333, -9.035467 ], [ 0.3666667, -8.365859 ], [ 0.4, -7.752084 ], [ 0.4333333, -7.034312 ], [ 0.4666667, -6.203516 ], [ 0.5, -5.810157 ], [ 0.5333333, -6.212113 ], [ 0.5666667, -7.700268 ], [ 0.6, -9.775699 ], [ 0.6333333, -11.95666 ], [ 0.6666667, -13.82201 ], [ 0.7, -15.12417 ], [ 0.7333333, -15.87589 ], [ 0.7666667, -16.31065 ], [ 0.8, -16.54221 ] ]
+			},
+			{
+				"url" : "name://@selection/lIndex2:?rotation/z/value",
+				"keys" : [ [ 0, -50.52699 ], [ 0.03333333, -43.20947 ], [ 0.06666667, -35.72464 ], [ 0.1, -28.37358 ], [ 0.1333333, -21.44653 ], [ 0.1666667, -15.21957 ], [ 0.2, -9.985124 ], [ 0.2333333, -5.640359 ], [ 0.2666667, -1.816886 ], [ 0.3, 1.652897 ], [ 0.3333333, 4.776183 ], [ 0.3666667, 7.575432 ], [ 0.4, 10.07223 ], [ 0.4333333, 12.92139 ], [ 0.4666667, 16.13938 ], [ 0.5, 17.63777 ], [ 0.5333333, 16.10645 ], [ 0.5666667, 10.28047 ], [ 0.6, 1.573351 ], [ 0.6333333, -8.792183 ], [ 0.6666667, -19.54326 ], [ 0.7, -29.3197 ], [ 0.7333333, -37.1307 ], [ 0.7666667, -43.86803 ], [ 0.8, -50.527 ] ]
+			},
+			{
+				"url" : "name://@selection/lIndex2:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lIndex2:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lIndex2:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lIndex2:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lIndex1:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lIndex1:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lIndex1:?translation/z/value",
+				"keys" : [ [ 0, -1.776357e-15 ] ]
+			},
+			{
+				"url" : "name://@selection/lIndex1:?rotation/x/value",
+				"keys" : [ [ 0, 14.97923 ], [ 0.03333333, 11.86831 ], [ 0.06666667, 9.087102 ], [ 0.1, 6.734251 ], [ 0.1333333, 4.85085 ], [ 0.1666667, 3.423219 ], [ 0.2, 2.368347 ], [ 0.2333333, 1.612936 ], [ 0.2666667, 1.150934 ], [ 0.3, 0.852742 ], [ 0.3333333, 0.6923963 ], [ 0.3666667, 0.6823885 ], [ 0.4, 0.8204474 ], [ 0.4333333, 1.168567 ], [ 0.4666667, 1.692407 ], [ 0.5, 2.112386 ], [ 0.5333333, 2.193177 ], [ 0.5666667, 2.073618 ], [ 0.6, 2.243511 ], [ 0.6333333, 3.086833 ], [ 0.6666667, 4.734829 ], [ 0.7, 6.983536 ], [ 0.7333333, 9.432802 ], [ 0.7666667, 12.05623 ], [ 0.8, 14.97922 ] ]
+			},
+			{
+				"url" : "name://@selection/lIndex1:?rotation/y/value",
+				"keys" : [ [ 0, -16.65055 ], [ 0.03333333, -14.41749 ], [ 0.06666667, -11.86279 ], [ 0.1, -9.103909 ], [ 0.1333333, -6.282352 ], [ 0.1666667, -3.543305 ], [ 0.2, -0.9683617 ], [ 0.2333333, 1.35835 ], [ 0.2666667, 3.315446 ], [ 0.3, 5.039066 ], [ 0.3333333, 6.542792 ], [ 0.3666667, 7.720535 ], [ 0.4, 8.479834 ], [ 0.4333333, 8.856748 ], [ 0.4666667, 8.89829 ], [ 0.5, 8.406957 ], [ 0.5333333, 7.145371 ], [ 0.5666667, 4.870833 ], [ 0.6, 1.679657 ], [ 0.6333333, -2.093765 ], [ 0.6666667, -5.96574 ], [ 0.7, -9.42792 ], [ 0.7333333, -12.20702 ], [ 0.7666667, -14.55963 ], [ 0.8, -16.65057 ] ]
+			},
+			{
+				"url" : "name://@selection/lIndex1:?rotation/z/value",
+				"keys" : [ [ 0, -74.83775 ], [ 0.03333333, -65.59055 ], [ 0.06666667, -56.33272 ], [ 0.1, -47.31081 ], [ 0.1333333, -38.74564 ], [ 0.1666667, -30.84623 ], [ 0.2, -23.75587 ], [ 0.2333333, -17.47749 ], [ 0.2666667, -12.00139 ], [ 0.3, -6.938548 ], [ 0.3333333, -2.305951 ], [ 0.3666667, 1.61359 ], [ 0.4, 4.527907 ], [ 0.4333333, 6.732817 ], [ 0.4666667, 8.334966 ], [ 0.5, 7.986134 ], [ 0.5333333, 4.31145 ], [ 0.5666667, -3.226798 ], [ 0.6, -13.50238 ], [ 0.6333333, -25.24244 ], [ 0.6666667, -37.26004 ], [ 0.7, -48.37129 ], [ 0.7333333, -57.73803 ], [ 0.7666667, -66.25756 ], [ 0.8, -74.83773 ] ]
+			},
+			{
+				"url" : "name://@selection/lIndex1:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lIndex1:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lIndex1:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lIndex1:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lMid3:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lMid3:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lMid3:?translation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lMid3:?rotation/x/value",
+				"keys" : [ [ 0, -4.710649e-06 ] ]
+			},
+			{
+				"url" : "name://@selection/lMid3:?rotation/y/value",
+				"keys" : [ [ 0, 1.581716e-07 ] ]
+			},
+			{
+				"url" : "name://@selection/lMid3:?rotation/z/value",
+				"keys" : [ [ 0, -8.839872e-06 ] ]
+			},
+			{
+				"url" : "name://@selection/lMid3:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lMid3:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lMid3:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lMid3:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lMid2:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lMid2:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lMid2:?translation/z/value",
+				"keys" : [ [ 0, -1.776357e-15 ] ]
+			},
+			{
+				"url" : "name://@selection/lMid2:?rotation/x/value",
+				"keys" : [ [ 0, 10.38611 ], [ 0.03333333, 9.061083 ], [ 0.06666667, 7.697862 ], [ 0.1, 6.368598 ], [ 0.1333333, 5.140744 ], [ 0.1666667, 4.068426 ], [ 0.2, 3.186155 ], [ 0.2333333, 2.474913 ], [ 0.2666667, 1.893631 ], [ 0.3, 1.402305 ], [ 0.3333333, 0.9917423 ], [ 0.3666667, 0.6605424 ], [ 0.4, 0.4047382 ], [ 0.4333333, 0.1659949 ], [ 0.4666667, -0.05627627 ], [ 0.5, -0.08749052 ], [ 0.5333333, 0.02288164 ], [ 0.5666667, 0.5771733 ], [ 0.6, 1.591703 ], [ 0.6333333, 3.054427 ], [ 0.6666667, 4.796392 ], [ 0.7, 6.515108 ], [ 0.7333333, 7.940935 ], [ 0.7666667, 9.177082 ], [ 0.8, 10.3861 ] ]
+			},
+			{
+				"url" : "name://@selection/lMid2:?rotation/y/value",
+				"keys" : [ [ 0, -8.591206 ], [ 0.03333333, -8.737614 ], [ 0.06666667, -8.696407 ], [ 0.1, -8.466332 ], [ 0.1333333, -8.07438 ], [ 0.1666667, -7.57162 ], [ 0.2, -7.024391 ], [ 0.2333333, -6.47576 ], [ 0.2666667, -5.938544 ], [ 0.3, -5.40565 ], [ 0.3333333, -4.889592 ], [ 0.3666667, -4.412508 ], [ 0.4, -3.995897 ], [ 0.4333333, -3.557782 ], [ 0.4666667, -3.092676 ], [ 0.5, -3.02179 ], [ 0.5333333, -3.2658 ], [ 0.5666667, -4.281923 ], [ 0.6, -5.620851 ], [ 0.6333333, -6.930698 ], [ 0.6666667, -7.93047 ], [ 0.7, -8.501212 ], [ 0.7333333, -8.717969 ], [ 0.7666667, -8.732185 ], [ 0.8, -8.591208 ] ]
+			},
+			{
+				"url" : "name://@selection/lMid2:?rotation/z/value",
+				"keys" : [ [ 0, -64.54657 ], [ 0.03333333, -56.51091 ], [ 0.06666667, -48.28918 ], [ 0.1, -40.15764 ], [ 0.1333333, -32.39093 ], [ 0.1666667, -25.25889 ], [ 0.2, -19.01243 ], [ 0.2333333, -13.6142 ], [ 0.2666667, -8.862984 ], [ 0.3, -4.517168 ], [ 0.3333333, -0.5684199 ], [ 0.3666667, 2.90538 ], [ 0.4, 5.826388 ], [ 0.4333333, 8.804855 ], [ 0.4666667, 11.87922 ], [ 0.5, 12.34096 ], [ 0.5333333, 10.7444 ], [ 0.5666667, 3.831281 ], [ 0.6, -6.235045 ], [ 0.6333333, -18.04091 ], [ 0.6666667, -30.1442 ], [ 0.7, -41.06467 ], [ 0.7333333, -49.75892 ], [ 0.7666667, -57.21029 ], [ 0.8, -64.54657 ] ]
+			},
+			{
+				"url" : "name://@selection/lMid2:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lMid2:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lMid2:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lMid2:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lMid1:?translation/x/value",
+				"keys" : [ [ 0, -1.421085e-14 ] ]
+			},
+			{
+				"url" : "name://@selection/lMid1:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lMid1:?translation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lMid1:?rotation/x/value",
+				"keys" : [ [ 0, 12.57136 ], [ 0.03333333, 10.3341 ], [ 0.06666667, 8.1496 ], [ 0.1, 6.155731 ], [ 0.1333333, 4.455899 ], [ 0.1666667, 3.105331 ], [ 0.2, 2.108312 ], [ 0.2333333, 1.39439 ], [ 0.2666667, 0.8874989 ], [ 0.3, 0.4842407 ], [ 0.3333333, 0.1831036 ], [ 0.3666667, -0.00959432 ], [ 0.4, -0.09980395 ], [ 0.4333333, -0.1027298 ], [ 0.4666667, -0.04823486 ], [ 0.5, 0.0312243 ], [ 0.5333333, 0.149708 ], [ 0.5666667, 0.4693572 ], [ 0.6, 1.220345 ], [ 0.6333333, 2.534337 ], [ 0.6666667, 4.357751 ], [ 0.7, 6.432415 ], [ 0.7333333, 8.455991 ], [ 0.7666667, 10.47834 ], [ 0.8, 12.57137 ] ]
+			},
+			{
+				"url" : "name://@selection/lMid1:?rotation/y/value",
+				"keys" : [ [ 0, -15.86959 ], [ 0.03333333, -15.03148 ], [ 0.06666667, -13.82231 ], [ 0.1, -12.28579 ], [ 0.1333333, -10.51752 ], [ 0.1666667, -8.647162 ], [ 0.2, -6.7843 ], [ 0.2333333, -5.030239 ], [ 0.2666667, -3.486323 ], [ 0.3, -2.049915 ], [ 0.3333333, -0.7407903 ], [ 0.3666667, 0.3114306 ], [ 0.4, 0.9814678 ], [ 0.4333333, 1.255289 ], [ 0.4666667, 1.173576 ], [ 0.5, 0.5861375 ], [ 0.5333333, -0.6687857 ], [ 0.5666667, -2.691761 ], [ 0.6, -5.255025 ], [ 0.6333333, -7.98143 ], [ 0.6666667, -10.4904 ], [ 0.7, -12.5034 ], [ 0.7333333, -13.97118 ], [ 0.7666667, -15.07585 ], [ 0.8, -15.86961 ] ]
+			},
+			{
+				"url" : "name://@selection/lMid1:?rotation/z/value",
+				"keys" : [ [ 0, -83.00431 ], [ 0.03333333, -72.43801 ], [ 0.06666667, -61.71293 ], [ 0.1, -51.19805 ], [ 0.1333333, -41.23994 ], [ 0.1666667, -32.16177 ], [ 0.2, -24.21174 ], [ 0.2333333, -17.36683 ], [ 0.2666667, -11.49387 ], [ 0.3, -6.116009 ], [ 0.3333333, -1.270342 ], [ 0.3666667, 2.727183 ], [ 0.4, 5.55794 ], [ 0.4333333, 7.457866 ], [ 0.4666667, 8.548357 ], [ 0.5, 7.633312 ], [ 0.5333333, 3.472152 ], [ 0.5666667, -4.477786 ], [ 0.6, -15.24889 ], [ 0.6333333, -27.67343 ], [ 0.6666667, -40.57321 ], [ 0.7, -52.70949 ], [ 0.7333333, -63.25455 ], [ 0.7666667, -73.12806 ], [ 0.8, -83.0043 ] ]
+			},
+			{
+				"url" : "name://@selection/lMid1:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lMid1:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lMid1:?scale/y/value",
+				"keys" : [ [ 0, 0.9999999 ] ]
+			},
+			{
+				"url" : "name://@selection/lMid1:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lCarpal1:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lCarpal1:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lCarpal1:?translation/z/value",
+				"keys" : [ [ 0, 8.881784e-16 ] ]
+			},
+			{
+				"url" : "name://@selection/lCarpal1:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lCarpal1:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lCarpal1:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lCarpal1:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lCarpal1:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lCarpal1:?scale/y/value",
+				"keys" : [ [ 0, 0.9999999 ] ]
+			},
+			{
+				"url" : "name://@selection/lCarpal1:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lRing3:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lRing3:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lRing3:?translation/z/value",
+				"keys" : [ [ 0, -1.776357e-15 ] ]
+			},
+			{
+				"url" : "name://@selection/lRing3:?rotation/x/value",
+				"keys" : [ [ 0, 4.427991e-06 ] ]
+			},
+			{
+				"url" : "name://@selection/lRing3:?rotation/y/value",
+				"keys" : [ [ 0, -7.811819e-07 ] ]
+			},
+			{
+				"url" : "name://@selection/lRing3:?rotation/z/value",
+				"keys" : [ [ 0, 8.952164e-06 ] ]
+			},
+			{
+				"url" : "name://@selection/lRing3:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lRing3:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lRing3:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lRing3:?scale/z/value",
+				"keys" : [ [ 0, 0.9999999 ] ]
+			},
+			{
+				"url" : "name://@selection/lRing2:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lRing2:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lRing2:?translation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lRing2:?rotation/x/value",
+				"keys" : [ [ 0, 1.316326 ], [ 0.03333333, 0.946676 ], [ 0.06666667, 0.6036358 ], [ 0.1, 0.3202114 ], [ 0.1333333, 0.1160809 ], [ 0.1666667, -0.003113459 ], [ 0.2, -0.02912991 ], [ 0.2333333, -0.003569782 ], [ 0.2666667, 0.007120604 ], [ 0.3, 0.008687256 ], [ 0.3333333, 0.01430503 ], [ 0.3666667, 0.01767836 ], [ 0.4, 0.009562327 ], [ 0.4333333, -0.02544669 ], [ 0.4666667, -0.0795824 ], [ 0.5, -0.1441649 ], [ 0.5333333, -0.2295105 ], [ 0.5666667, -0.3141487 ], [ 0.6, -0.3275474 ], [ 0.6333333, -0.2074502 ], [ 0.6666667, 0.05092818 ], [ 0.7, 0.3823333 ], [ 0.7333333, 0.6930515 ], [ 0.7666667, 0.990155 ], [ 0.8, 1.316324 ] ]
+			},
+			{
+				"url" : "name://@selection/lRing2:?rotation/y/value",
+				"keys" : [ [ 0, -4.91975 ], [ 0.03333333, -4.520343 ], [ 0.06666667, -4.050677 ], [ 0.1, -3.541061 ], [ 0.1333333, -3.032958 ], [ 0.1666667, -2.574247 ], [ 0.2, -2.238488 ], [ 0.2333333, -2.002873 ], [ 0.2666667, -1.747878 ], [ 0.3, -1.447005 ], [ 0.3333333, -1.135423 ], [ 0.3666667, -0.8353673 ], [ 0.4, -0.569397 ], [ 0.4333333, -0.2896834 ], [ 0.4666667, 0.02206948 ], [ 0.5, 0.1935773 ], [ 0.5333333, 0.0523187 ], [ 0.5666667, -0.4577059 ], [ 0.6, -1.217118 ], [ 0.6333333, -2.090731 ], [ 0.6666667, -2.93884 ], [ 0.7, -3.643356 ], [ 0.7333333, -4.156208 ], [ 0.7666667, -4.561609 ], [ 0.8, -4.919754 ] ]
+			},
+			{
+				"url" : "name://@selection/lRing2:?rotation/z/value",
+				"keys" : [ [ 0, -51.87153 ], [ 0.03333333, -45.3431 ], [ 0.06666667, -38.54924 ], [ 0.1, -31.8877 ], [ 0.1333333, -25.75409 ], [ 0.1666667, -20.54257 ], [ 0.2, -16.92061 ], [ 0.2333333, -14.49426 ], [ 0.2666667, -11.89106 ], [ 0.3, -8.868833 ], [ 0.3333333, -5.784289 ], [ 0.3666667, -2.797848 ], [ 0.4, -0.06980499 ], [ 0.4333333, 2.993101 ], [ 0.4666667, 6.530654 ], [ 0.5, 8.656816 ], [ 0.5333333, 7.431163 ], [ 0.5666667, 2.258723 ], [ 0.6, -5.609871 ], [ 0.6333333, -14.95602 ], [ 0.6666667, -24.56137 ], [ 0.7, -33.20275 ], [ 0.7333333, -40.06191 ], [ 0.7666667, -46.00484 ], [ 0.8, -51.87156 ] ]
+			},
+			{
+				"url" : "name://@selection/lRing2:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lRing2:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lRing2:?scale/y/value",
+				"keys" : [ [ 0, 0.9999999 ] ]
+			},
+			{
+				"url" : "name://@selection/lRing2:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lRing1:?translation/x/value",
+				"keys" : [ [ 0, -1.421085e-14 ] ]
+			},
+			{
+				"url" : "name://@selection/lRing1:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lRing1:?translation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lRing1:?rotation/x/value",
+				"keys" : [ [ 0, 16.34323 ], [ 0.03333333, 15.53618 ], [ 0.06666667, 14.26532 ], [ 0.1, 12.63778 ], [ 0.1333333, 10.84966 ], [ 0.1666667, 9.138245 ], [ 0.2, 7.828812 ], [ 0.2333333, 6.851359 ], [ 0.2666667, 5.753995 ], [ 0.3, 4.326739 ], [ 0.3333333, 2.81809 ], [ 0.3666667, 1.50481 ], [ 0.4, 0.6301706 ], [ 0.4333333, 0.2358501 ], [ 0.4666667, 0.1822565 ], [ 0.5, 0.5681727 ], [ 0.5333333, 1.537269 ], [ 0.5666667, 3.253703 ], [ 0.6, 5.613176 ], [ 0.6333333, 8.295959 ], [ 0.6666667, 10.8839 ], [ 0.7, 13.00348 ], [ 0.7333333, 14.52202 ], [ 0.7666667, 15.61273 ], [ 0.8, 16.34324 ] ]
+			},
+			{
+				"url" : "name://@selection/lRing1:?rotation/y/value",
+				"keys" : [ [ 0, -9.499167 ], [ 0.03333333, -10.90498 ], [ 0.06666667, -12.11675 ], [ 0.1, -12.95485 ], [ 0.1333333, -13.32724 ], [ 0.1666667, -13.2489 ], [ 0.2, -12.78737 ], [ 0.2333333, -12.16278 ], [ 0.2666667, -11.54537 ], [ 0.3, -10.80791 ], [ 0.3333333, -9.919756 ], [ 0.3666667, -9.049489 ], [ 0.4, -8.46487 ], [ 0.4333333, -8.376344 ], [ 0.4666667, -8.741459 ], [ 0.5, -9.524623 ], [ 0.5333333, -10.63206 ], [ 0.5666667, -11.91663 ], [ 0.6, -13.02159 ], [ 0.6333333, -13.56962 ], [ 0.6666667, -13.42167 ], [ 0.7, -12.73518 ], [ 0.7333333, -11.82841 ], [ 0.7666667, -10.76379 ], [ 0.8, -9.49918 ] ]
+			},
+			{
+				"url" : "name://@selection/lRing1:?rotation/z/value",
+				"keys" : [ [ 0, -86.48061 ], [ 0.03333333, -76.24779 ], [ 0.06666667, -65.55088 ], [ 0.1, -54.94748 ], [ 0.1333333, -45.02808 ], [ 0.1666667, -36.39769 ], [ 0.2, -30.06891 ], [ 0.2333333, -25.45945 ], [ 0.2666667, -20.47122 ], [ 0.3, -14.2563 ], [ 0.3333333, -7.738787 ], [ 0.3666667, -1.950662 ], [ 0.4, 2.108873 ], [ 0.4333333, 4.312059 ], [ 0.4666667, 5.182653 ], [ 0.5, 3.884132 ], [ 0.5333333, -0.514679 ], [ 0.5666667, -8.586115 ], [ 0.6, -19.53089 ], [ 0.6333333, -32.13253 ], [ 0.6666667, -45.10134 ], [ 0.7, -57.14159 ], [ 0.7333333, -67.47995 ], [ 0.7666667, -77.04527 ], [ 0.8, -86.48059 ] ]
+			},
+			{
+				"url" : "name://@selection/lRing1:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lRing1:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lRing1:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lRing1:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lPinky3:?translation/x/value",
+				"keys" : [ [ 0, -1.421085e-14 ] ]
+			},
+			{
+				"url" : "name://@selection/lPinky3:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lPinky3:?translation/z/value",
+				"keys" : [ [ 0, -1.776357e-15 ] ]
+			},
+			{
+				"url" : "name://@selection/lPinky3:?rotation/x/value",
+				"keys" : [ [ 0, -4.234604e-06 ] ]
+			},
+			{
+				"url" : "name://@selection/lPinky3:?rotation/y/value",
+				"keys" : [ [ 0, 6.655966e-06 ] ]
+			},
+			{
+				"url" : "name://@selection/lPinky3:?rotation/z/value",
+				"keys" : [ [ 0, -6.174529e-06 ] ]
+			},
+			{
+				"url" : "name://@selection/lPinky3:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lPinky3:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lPinky3:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lPinky3:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lPinky2:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lPinky2:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lPinky2:?translation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lPinky2:?rotation/x/value",
+				"keys" : [ [ 0, -0.2795886 ], [ 0.03333333, -0.4808853 ], [ 0.06666667, -0.62606 ], [ 0.1, -0.6985951 ], [ 0.1333333, -0.7042323 ], [ 0.1666667, -0.6678949 ], [ 0.2, -0.6344129 ], [ 0.2333333, -0.6182173 ], [ 0.2666667, -0.578875 ], [ 0.3, -0.4918985 ], [ 0.3333333, -0.3614538 ], [ 0.3666667, -0.2035106 ], [ 0.4, -0.05179853 ], [ 0.4333333, 0.09278368 ], [ 0.4666667, 0.2458161 ], [ 0.5, 0.3096586 ], [ 0.5333333, 0.242425 ], [ 0.5666667, -0.01172921 ], [ 0.6, -0.3238195 ], [ 0.6333333, -0.577638 ], [ 0.6666667, -0.6999152 ], [ 0.7, -0.6871338 ], [ 0.7333333, -0.5952802 ], [ 0.7666667, -0.4606316 ], [ 0.8, -0.2796006 ] ]
+			},
+			{
+				"url" : "name://@selection/lPinky2:?rotation/y/value",
+				"keys" : [ [ 0, -2.534648 ], [ 0.03333333, -2.101144 ], [ 0.06666667, -1.618686 ], [ 0.1, -1.132111 ], [ 0.1333333, -0.6898865 ], [ 0.1666667, -0.3370681 ], [ 0.2, -0.1538857 ], [ 0.2333333, -0.08095391 ], [ 0.2666667, 0.07166296 ], [ 0.3, 0.338165 ], [ 0.3333333, 0.6431611 ], [ 0.3666667, 0.9323657 ], [ 0.4, 1.160339 ], [ 0.4333333, 1.346253 ], [ 0.4666667, 1.517802 ], [ 0.5, 1.583009 ], [ 0.5333333, 1.514215 ], [ 0.5666667, 1.214531 ], [ 0.6, 0.7182964 ], [ 0.6333333, 0.07604042 ], [ 0.6666667, -0.6197256 ], [ 0.7, -1.253351 ], [ 0.7333333, -1.745518 ], [ 0.7666667, -2.152813 ], [ 0.8, -2.53466 ] ]
+			},
+			{
+				"url" : "name://@selection/lPinky2:?rotation/z/value",
+				"keys" : [ [ 0, -60.84798 ], [ 0.03333333, -52.91351 ], [ 0.06666667, -44.55156 ], [ 0.1, -36.38989 ], [ 0.1333333, -29.05526 ], [ 0.1666667, -23.17472 ], [ 0.2, -20.08802 ], [ 0.2333333, -18.85003 ], [ 0.2666667, -16.23735 ], [ 0.3, -11.58989 ], [ 0.3333333, -6.089408 ], [ 0.3666667, -0.6237772 ], [ 0.4, 3.918348 ], [ 0.4333333, 7.825078 ], [ 0.4666667, 11.6391 ], [ 0.5, 13.15277 ], [ 0.5333333, 11.55737 ], [ 0.5666667, 5.036111 ], [ 0.6, -4.696065 ], [ 0.6333333, -16.1624 ], [ 0.6666667, -27.89007 ], [ 0.7, -38.40818 ], [ 0.7333333, -46.71606 ], [ 0.7666667, -53.83405 ], [ 0.8, -60.84799 ] ]
+			},
+			{
+				"url" : "name://@selection/lPinky2:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lPinky2:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lPinky2:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lPinky2:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lPinky1:?translation/x/value",
+				"keys" : [ [ 0, -1.421085e-14 ] ]
+			},
+			{
+				"url" : "name://@selection/lPinky1:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lPinky1:?translation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lPinky1:?rotation/x/value",
+				"keys" : [ [ 0, 12.8333 ], [ 0.03333333, 12.57366 ], [ 0.06666667, 11.77105 ], [ 0.1, 10.48927 ], [ 0.1333333, 8.913681 ], [ 0.1666667, 7.306352 ], [ 0.2, 6.052079 ], [ 0.2333333, 5.123898 ], [ 0.2666667, 4.044441 ], [ 0.3, 2.589093 ], [ 0.3333333, 1.001589 ], [ 0.3666667, -0.4361475 ], [ 0.4, -1.443719 ], [ 0.4333333, -1.963886 ], [ 0.4666667, -2.134242 ], [ 0.5, -1.775315 ], [ 0.5333333, -0.6817296 ], [ 0.5666667, 1.272817 ], [ 0.6, 3.837724 ], [ 0.6333333, 6.57205 ], [ 0.6666667, 9.007339 ], [ 0.7, 10.81296 ], [ 0.7333333, 11.95214 ], [ 0.7666667, 12.6096 ], [ 0.8, 12.8333 ] ]
+			},
+			{
+				"url" : "name://@selection/lPinky1:?rotation/y/value",
+				"keys" : [ [ 0, -10.70649 ], [ 0.03333333, -12.12141 ], [ 0.06666667, -13.42773 ], [ 0.1, -14.41862 ], [ 0.1333333, -14.96224 ], [ 0.1666667, -15.03304 ], [ 0.2, -14.652 ], [ 0.2333333, -14.05476 ], [ 0.2666667, -13.4894 ], [ 0.3, -12.85319 ], [ 0.3333333, -12.1117 ], [ 0.3666667, -11.41189 ], [ 0.4, -10.97231 ], [ 0.4333333, -10.98182 ], [ 0.4666667, -11.40827 ], [ 0.5, -12.19821 ], [ 0.5333333, -13.24854 ], [ 0.5666667, -14.38411 ], [ 0.6, -15.24647 ], [ 0.6333333, -15.49092 ], [ 0.6666667, -15.04381 ], [ 0.7, -14.13267 ], [ 0.7333333, -13.10107 ], [ 0.7666667, -11.97226 ], [ 0.8, -10.7065 ] ]
+			},
+			{
+				"url" : "name://@selection/lPinky1:?rotation/z/value",
+				"keys" : [ [ 0, -83.54521 ], [ 0.03333333, -74.14301 ], [ 0.06666667, -64.27955 ], [ 0.1, -54.48471 ], [ 0.1333333, -45.32736 ], [ 0.1666667, -37.39939 ], [ 0.2, -31.64545 ], [ 0.2333333, -27.56477 ], [ 0.2666667, -23.31054 ], [ 0.3, -18.23243 ], [ 0.3333333, -13.03162 ], [ 0.3666667, -8.4067 ], [ 0.4, -5.026027 ], [ 0.4333333, -2.773695 ], [ 0.4666667, -1.276186 ], [ 0.5, -1.655376 ], [ 0.5333333, -5.131877 ], [ 0.5666667, -12.27207 ], [ 0.6, -22.18755 ], [ 0.6333333, -33.70814 ], [ 0.6666667, -45.59009 ], [ 0.7, -56.60515 ], [ 0.7333333, -66.06225 ], [ 0.7666667, -74.8677 ], [ 0.8, -83.54523 ] ]
+			},
+			{
+				"url" : "name://@selection/lPinky1:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lPinky1:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lPinky1:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lPinky1:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lCarpal2:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lCarpal2:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lCarpal2:?translation/z/value",
+				"keys" : [ [ 0, 8.881784e-16 ] ]
+			},
+			{
+				"url" : "name://@selection/lCarpal2:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lCarpal2:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lCarpal2:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lCarpal2:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lCarpal2:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lCarpal2:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lCarpal2:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lHand:?translation/x/value",
+				"keys" : [ [ 0, 7.105427e-15 ] ]
+			},
+			{
+				"url" : "name://@selection/lHand:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lHand:?translation/z/value",
+				"keys" : [ [ 0, -2.384186e-07 ] ]
+			},
+			{
+				"url" : "name://@selection/lHand:?rotation/x/value",
+				"keys" : [ [ 0, 16.49103 ], [ 0.03333333, 13.79095 ], [ 0.06666667, 11.74566 ], [ 0.1, 9.330709 ], [ 0.1333333, 8.515302 ], [ 0.1666667, 7.797618 ], [ 0.2, 8.682056 ], [ 0.2333333, 17.59522 ], [ 0.2666667, 12.0759 ], [ 0.3, 12.67492 ], [ 0.3333333, 15.71586 ], [ 0.3666667, 17.68788 ], [ 0.4, 15.02008 ], [ 0.4333333, 16.22816 ], [ 0.4666667, 15.54237 ], [ 0.5, 15.10786 ], [ 0.5333333, 13.42495 ], [ 0.5666667, 12.30848 ], [ 0.6, 11.15574 ], [ 0.6333333, 9.623639 ], [ 0.6666667, 12.11904 ], [ 0.7, 14.51659 ], [ 0.7333333, 15.49517 ], [ 0.7666667, 15.51021 ], [ 0.8, 16.49104 ] ]
+			},
+			{
+				"url" : "name://@selection/lHand:?rotation/y/value",
+				"keys" : [ [ 0, 8.520486 ], [ 0.03333333, 12.6251 ], [ 0.06666667, 11.95427 ], [ 0.1, 2.078681 ], [ 0.1333333, 0.255899 ], [ 0.1666667, -5.080368 ], [ 0.2, -11.74344 ], [ 0.2333333, -27.97731 ], [ 0.2666667, -7.637314 ], [ 0.3, -5.176526 ], [ 0.3333333, -12.73333 ], [ 0.3666667, -6.959953 ], [ 0.4, -2.456925 ], [ 0.4333333, 9.74217 ], [ 0.4666667, 5.016073 ], [ 0.5, -15.75078 ], [ 0.5333333, -4.335142 ], [ 0.5666667, 4.892952 ], [ 0.6, 11.59942 ], [ 0.6333333, 16.54969 ], [ 0.6666667, 9.315118 ], [ 0.7, 5.051241 ], [ 0.7333333, 3.113399 ], [ 0.7666667, 6.36778 ], [ 0.8, 8.520493 ] ]
+			},
+			{
+				"url" : "name://@selection/lHand:?rotation/z/value",
+				"keys" : [ [ 0, -8.15253 ], [ 0.03333333, 4.953987 ], [ 0.06666667, 7.41623 ], [ 0.1, 12.18284 ], [ 0.1333333, 7.432848 ], [ 0.1666667, -5.838335 ], [ 0.2, -17.90753 ], [ 0.2333333, -14.21357 ], [ 0.2666667, -16.98258 ], [ 0.3, 4.961237 ], [ 0.3333333, -0.6597775 ], [ 0.3666667, -10.82533 ], [ 0.4, -0.5459343 ], [ 0.4333333, 10.26001 ], [ 0.4666667, 11.60696 ], [ 0.5, 4.48892 ], [ 0.5333333, 1.77409 ], [ 0.5666667, 1.646512 ], [ 0.6, -5.317252 ], [ 0.6333333, -10.65447 ], [ 0.6666667, -6.022632 ], [ 0.7, -10.11773 ], [ 0.7333333, -8.755474 ], [ 0.7666667, -8.481726 ], [ 0.8, -8.152531 ] ]
+			},
+			{
+				"url" : "name://@selection/lHand:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lHand:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lHand:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lHand:?scale/z/value",
+				"keys" : [ [ 0, 0.9999999 ] ]
+			},
+			{
+				"url" : "name://@selection/lForeArm:?translation/x/value",
+				"keys" : [ [ 0, -3.552714e-15 ] ]
+			},
+			{
+				"url" : "name://@selection/lForeArm:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lForeArm:?translation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lForeArm:?rotation/x/value",
+				"keys" : [ [ 0, -33.25831 ], [ 0.03333333, -44.3599 ], [ 0.06666667, -52.57243 ], [ 0.1, -48.42782 ], [ 0.1333333, -51.32516 ], [ 0.1666667, -52.80488 ], [ 0.2, -34.54685 ], [ 0.2333333, -52.49189 ], [ 0.2666667, -77.07327 ], [ 0.3, -63.74895 ], [ 0.3333333, -67.05208 ], [ 0.3666667, -62.79626 ], [ 0.4, -50.34364 ], [ 0.4333333, -29.41882 ], [ 0.4666667, -13.21486 ], [ 0.5, -14.01036 ], [ 0.5333333, -18.29531 ], [ 0.5666667, -15.17733 ], [ 0.6, -18.08694 ], [ 0.6333333, -18.92994 ], [ 0.6666667, -20.58535 ], [ 0.7, -22.28274 ], [ 0.7333333, -26.29448 ], [ 0.7666667, -30.78978 ], [ 0.8, -33.25829 ] ]
+			},
+			{
+				"url" : "name://@selection/lForeArm:?rotation/y/value",
+				"keys" : [ [ 0, -72.8157 ], [ 0.03333333, -77.55543 ], [ 0.06666667, -101.3549 ], [ 0.1, -112.3204 ], [ 0.1333333, -89.61282 ], [ 0.1666667, -72.58624 ], [ 0.2, -54.28522 ], [ 0.2333333, -18.40934 ], [ 0.2666667, -7.345766 ], [ 0.3, -12.33524 ], [ 0.3333333, -28.94271 ], [ 0.3666667, -17.52295 ], [ 0.4, 7.849961 ], [ 0.4333333, 8.00693 ], [ 0.4666667, -2.463019 ], [ 0.5, -22.26916 ], [ 0.5333333, -62.6195 ], [ 0.5666667, -83.6157 ], [ 0.6, -92.24676 ], [ 0.6333333, -95.85211 ], [ 0.6666667, -84.70739 ], [ 0.7, -73.43741 ], [ 0.7333333, -67.87816 ], [ 0.7666667, -69.9065 ], [ 0.8, -72.81573 ] ]
+			},
+			{
+				"url" : "name://@selection/lForeArm:?rotation/z/value",
+				"keys" : [ [ 0, 3.961848 ], [ 0.03333333, 9.745728 ], [ 0.06666667, 12.28451 ], [ 0.1, 1.453898 ], [ 0.1333333, -11.62313 ], [ 0.1666667, -13.35315 ], [ 0.2, -14.93621 ], [ 0.2333333, -9.862329 ], [ 0.2666667, 3.339891 ], [ 0.3, 0.1860191 ], [ 0.3333333, 3.309894 ], [ 0.3666667, 0.2670186 ], [ 0.4, -1.865745 ], [ 0.4333333, 2.268367 ], [ 0.4666667, 0.3884665 ], [ 0.5, -0.3840869 ], [ 0.5333333, 1.112624 ], [ 0.5666667, 0.1130495 ], [ 0.6, -2.133754 ], [ 0.6333333, -5.504463 ], [ 0.6666667, 1.062665 ], [ 0.7, 7.011885 ], [ 0.7333333, 7.522037 ], [ 0.7666667, 6.450624 ], [ 0.8, 3.961835 ] ]
+			},
+			{
+				"url" : "name://@selection/lForeArm:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lForeArm:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lForeArm:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lForeArm:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lShldr:?translation/x/value",
+				"keys" : [ [ 0, 2.384186e-07 ] ]
+			},
+			{
+				"url" : "name://@selection/lShldr:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lShldr:?translation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lShldr:?rotation/x/value",
+				"keys" : [ [ 0, 3.387381 ], [ 0.03333333, 10.60783 ], [ 0.06666667, 13.07803 ], [ 0.1, 0.7790719 ], [ 0.1333333, -27.89995 ], [ 0.1666667, -27.91255 ], [ 0.2, -16.53596 ], [ 0.2333333, -10.50119 ], [ 0.2666667, -21.52504 ], [ 0.3, -15.94317 ], [ 0.3333333, 20.3366 ], [ 0.3666667, 38.45596 ], [ 0.4, 14.88855 ], [ 0.4333333, 1.491513 ], [ 0.4666667, -1.31523 ], [ 0.5, -6.156168 ], [ 0.5333333, -12.51611 ], [ 0.5666667, -22.27105 ], [ 0.6, -24.95408 ], [ 0.6333333, -19.08892 ], [ 0.6666667, -2.747663 ], [ 0.7, 9.086826 ], [ 0.7333333, 8.286826 ], [ 0.7666667, 7.436153 ], [ 0.8, 3.387388 ] ]
+			},
+			{
+				"url" : "name://@selection/lShldr:?rotation/y/value",
+				"keys" : [ [ 0, -9.576583 ], [ 0.03333333, -8.682212 ], [ 0.06666667, -4.478467 ], [ 0.1, -11.32189 ], [ 0.1333333, -27.87003 ], [ 0.1666667, -31.14417 ], [ 0.2, -26.03768 ], [ 0.2333333, -22.38261 ], [ 0.2666667, -9.439402 ], [ 0.3, 2.658701 ], [ 0.3333333, 20.29738 ], [ 0.3666667, 30.35184 ], [ 0.4, 20.20869 ], [ 0.4333333, 4.525136 ], [ 0.4666667, -3.994766 ], [ 0.5, -5.06778 ], [ 0.5333333, -8.336113 ], [ 0.5666667, -7.191635 ], [ 0.6, 3.425175 ], [ 0.6333333, 8.533833 ], [ 0.6666667, 2.446428 ], [ 0.7, -3.074155 ], [ 0.7333333, -7.796294 ], [ 0.7666667, -9.999062 ], [ 0.8, -9.576587 ] ]
+			},
+			{
+				"url" : "name://@selection/lShldr:?rotation/z/value",
+				"keys" : [ [ 0, -44.06266 ], [ 0.03333333, -43.59646 ], [ 0.06666667, -45.37433 ], [ 0.1, -43.2564 ], [ 0.1333333, -20.08744 ], [ 0.1666667, -21.69261 ], [ 0.2, -30.47986 ], [ 0.2333333, -32.85135 ], [ 0.2666667, -36.788 ], [ 0.3, -26.59271 ], [ 0.3333333, -23.42204 ], [ 0.3666667, -29.8261 ], [ 0.4, -41.2029 ], [ 0.4333333, -35.53885 ], [ 0.4666667, -31.38985 ], [ 0.5, -34.3213 ], [ 0.5333333, -33.34533 ], [ 0.5666667, -28.91287 ], [ 0.6, -29.45374 ], [ 0.6333333, -37.05552 ], [ 0.6666667, -45.52006 ], [ 0.7, -53.73565 ], [ 0.7333333, -53.54914 ], [ 0.7666667, -51.02141 ], [ 0.8, -44.06266 ] ]
+			},
+			{
+				"url" : "name://@selection/lShldr:?scale/general/value",
+				"keys" : [ [ 0, 0.9999999 ] ]
+			},
+			{
+				"url" : "name://@selection/lShldr:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lShldr:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lShldr:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lCollar:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lCollar:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lCollar:?translation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lCollar:?rotation/x/value",
+				"keys" : [ [ 0, -2.641512 ], [ 0.03333333, -1.2539 ], [ 0.06666667, -0.5277992 ], [ 0.1, -1.951592 ], [ 0.1333333, -3.339297 ], [ 0.1666667, -2.546464 ], [ 0.2, 1.917011 ], [ 0.2333333, 5.956775 ], [ 0.2666667, 8.168217 ], [ 0.3, 9.076332 ], [ 0.3333333, 2.042397 ], [ 0.3666667, -3.478181 ], [ 0.4, 2.384959 ], [ 0.4333333, 7.916681 ], [ 0.4666667, 6.286972 ], [ 0.5, 0.8451236 ], [ 0.5333333, 0.250803 ], [ 0.5666667, 1.754731 ], [ 0.6, -2.255902 ], [ 0.6333333, -6.442203 ], [ 0.6666667, -4.588514 ], [ 0.7, -6.203622 ], [ 0.7333333, -5.87697 ], [ 0.7666667, -4.234597 ], [ 0.8, -2.641515 ] ]
+			},
+			{
+				"url" : "name://@selection/lCollar:?rotation/y/value",
+				"keys" : [ [ 0, -8.579961 ], [ 0.03333333, -8.826521 ], [ 0.06666667, -12.19009 ], [ 0.1, -24.36031 ], [ 0.1333333, -29.30295 ], [ 0.1666667, -32.77127 ], [ 0.2, -32.11714 ], [ 0.2333333, -24.84084 ], [ 0.2666667, -14.88276 ], [ 0.3, -5.616474 ], [ 0.3333333, -4.567273 ], [ 0.3666667, -3.225833 ], [ 0.4, -1.842006 ], [ 0.4333333, 6.706868 ], [ 0.4666667, 6.42634 ], [ 0.5, 4.371269 ], [ 0.5333333, 1.390597 ], [ 0.5666667, -9.849052 ], [ 0.6, -15.48481 ], [ 0.6333333, -9.380439 ], [ 0.6666667, -0.8081456 ], [ 0.7, 1.722711 ], [ 0.7333333, -1.429605 ], [ 0.7666667, -4.765975 ], [ 0.8, -8.579962 ] ]
+			},
+			{
+				"url" : "name://@selection/lCollar:?rotation/z/value",
+				"keys" : [ [ 0, -5.827809 ], [ 0.03333333, -8.439376 ], [ 0.06666667, -12.61613 ], [ 0.1, -12.06154 ], [ 0.1333333, -7.384472 ], [ 0.1666667, -8.867224 ], [ 0.2, -12.5527 ], [ 0.2333333, -13.75946 ], [ 0.2666667, -11.37768 ], [ 0.3, -14.66151 ], [ 0.3333333, -10.09797 ], [ 0.3666667, -7.069491 ], [ 0.4, -7.64117 ], [ 0.4333333, -12.75243 ], [ 0.4666667, -12.49707 ], [ 0.5, -7.893088 ], [ 0.5333333, -10.07092 ], [ 0.5666667, -15.03224 ], [ 0.6, -19.32249 ], [ 0.6333333, -16.08296 ], [ 0.6666667, -9.93372 ], [ 0.7, -6.335951 ], [ 0.7333333, -6.506587 ], [ 0.7666667, -5.842318 ], [ 0.8, -5.827808 ] ]
+			},
+			{
+				"url" : "name://@selection/lCollar:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lCollar:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lCollar:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lCollar:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rPectoral:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rPectoral:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rPectoral:?translation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rPectoral:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rPectoral:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rPectoral:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rPectoral:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rPectoral:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rPectoral:?scale/y/value",
+				"keys" : [ [ 0, 0.9999999 ] ]
+			},
+			{
+				"url" : "name://@selection/rPectoral:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lPectoral:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lPectoral:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lPectoral:?translation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lPectoral:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lPectoral:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lPectoral:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lPectoral:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lPectoral:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lPectoral:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/lPectoral:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/chest:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/chest:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/chest:?translation/z/value",
+				"keys" : [ [ 0, -1.192093e-07 ] ]
+			},
+			{
+				"url" : "name://@selection/chest:?rotation/x/value",
+				"keys" : [ [ 0, 5.963551 ], [ 0.03333333, 6.596859 ], [ 0.06666667, 6.307398 ], [ 0.1, 5.30568 ], [ 0.1333333, 6.372 ], [ 0.1666667, 9.815074 ], [ 0.2, 13.02527 ], [ 0.2333333, 16.83551 ], [ 0.2666667, 16.42819 ], [ 0.3, 12.76258 ], [ 0.3333333, 9.464843 ], [ 0.3666667, 5.757257 ], [ 0.4, 3.947067 ], [ 0.4333333, 4.380012 ], [ 0.4666667, 7.039712 ], [ 0.5, 8.346239 ], [ 0.5333333, 7.593791 ], [ 0.5666667, 7.630312 ], [ 0.6, 5.709462 ], [ 0.6333333, 4.475482 ], [ 0.6666667, 4.406826 ], [ 0.7, 5.184066 ], [ 0.7333333, 5.478043 ], [ 0.7666667, 5.734504 ], [ 0.8, 5.963552 ] ]
+			},
+			{
+				"url" : "name://@selection/chest:?rotation/y/value",
+				"keys" : [ [ 0, 4.130455 ], [ 0.03333333, 2.539743 ], [ 0.06666667, 6.518311 ], [ 0.1, 9.537482 ], [ 0.1333333, 8.711388 ], [ 0.1666667, 4.241726 ], [ 0.2, 1.614206 ], [ 0.2333333, -2.285041 ], [ 0.2666667, -5.554108 ], [ 0.3, -7.127849 ], [ 0.3333333, -6.599972 ], [ 0.3666667, -8.130514 ], [ 0.4, -8.907971 ], [ 0.4333333, -9.911387 ], [ 0.4666667, -12.81624 ], [ 0.5, -10.17453 ], [ 0.5333333, -4.297629 ], [ 0.5666667, -0.03861079 ], [ 0.6, 2.066195 ], [ 0.6333333, 3.788777 ], [ 0.6666667, 2.513165 ], [ 0.7, 2.664433 ], [ 0.7333333, 3.346569 ], [ 0.7666667, 3.797619 ], [ 0.8, 4.130456 ] ]
+			},
+			{
+				"url" : "name://@selection/chest:?rotation/z/value",
+				"keys" : [ [ 0, 0.1987802 ], [ 0.03333333, 3.482503 ], [ 0.06666667, 5.819301 ], [ 0.1, 7.050949 ], [ 0.1333333, 6.22649 ], [ 0.1666667, 5.693944 ], [ 0.2, 6.909783 ], [ 0.2333333, 9.343413 ], [ 0.2666667, 11.32612 ], [ 0.3, 11.06723 ], [ 0.3333333, 4.493947 ], [ 0.3666667, 1.076563 ], [ 0.4, 0.171409 ], [ 0.4333333, 2.306354 ], [ 0.4666667, 4.936667 ], [ 0.5, 5.528525 ], [ 0.5333333, 6.629468 ], [ 0.5666667, 6.156262 ], [ 0.6, 4.920634 ], [ 0.6333333, 3.45088 ], [ 0.6666667, 3.207397 ], [ 0.7, 2.469912 ], [ 0.7333333, 1.731986 ], [ 0.7666667, 0.9703529 ], [ 0.8, 0.1987796 ] ]
+			},
+			{
+				"url" : "name://@selection/chest:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/chest:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/chest:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/chest:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/abdomen2:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/abdomen2:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/abdomen2:?translation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/abdomen2:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/abdomen2:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/abdomen2:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/abdomen2:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/abdomen2:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/abdomen2:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/abdomen2:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/abdomen:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/abdomen:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/abdomen:?translation/z/value",
+				"keys" : [ [ 0, -7.450581e-09 ] ]
+			},
+			{
+				"url" : "name://@selection/abdomen:?rotation/x/value",
+				"keys" : [ [ 0, 2.979298 ], [ 0.03333333, 3.278209 ], [ 0.06666667, 3.069905 ], [ 0.1, 2.504762 ], [ 0.1333333, 3.056521 ], [ 0.1666667, 4.829597 ], [ 0.2, 6.463946 ], [ 0.2333333, 8.435091 ], [ 0.2666667, 8.352821 ], [ 0.3, 6.523389 ], [ 0.3333333, 4.754682 ], [ 0.3666667, 2.88254 ], [ 0.4, 1.972385 ], [ 0.4333333, 2.232615 ], [ 0.4666667, 3.655641 ], [ 0.5, 4.311956 ], [ 0.5333333, 3.868931 ], [ 0.5666667, 3.809735 ], [ 0.6, 2.828436 ], [ 0.6333333, 2.209702 ], [ 0.6666667, 2.188488 ], [ 0.7, 2.579469 ], [ 0.7333333, 2.727019 ], [ 0.7666667, 2.858953 ], [ 0.8, 2.9793 ] ]
+			},
+			{
+				"url" : "name://@selection/abdomen:?rotation/y/value",
+				"keys" : [ [ 0, 2.071596 ], [ 0.03333333, 1.263099 ], [ 0.06666667, 3.293117 ], [ 0.1, 4.829797 ], [ 0.1333333, 4.246046 ], [ 0.1666667, 1.700938 ], [ 0.2, 0.45066 ], [ 0.2333333, -1.45357 ], [ 0.2666667, -2.70811 ], [ 0.3, -3.795362 ], [ 0.3333333, -4.263193 ], [ 0.3666667, -5.550901 ], [ 0.4, -4.755816 ], [ 0.4333333, -5.095251 ], [ 0.4666667, -6.279441 ], [ 0.5, -4.673494 ], [ 0.5333333, -1.963552 ], [ 0.5666667, -0.09645313 ], [ 0.6, 0.9699968 ], [ 0.6333333, 1.936814 ], [ 0.6666667, 1.356772 ], [ 0.7, 1.4205 ], [ 0.7333333, 1.736051 ], [ 0.7666667, 1.930141 ], [ 0.8, 2.071593 ] ]
+			},
+			{
+				"url" : "name://@selection/abdomen:?rotation/z/value",
+				"keys" : [ [ 0, 0.3815831 ], [ 0.03333333, 2.167041 ], [ 0.06666667, 3.534296 ], [ 0.1, 4.352708 ], [ 0.1333333, 3.835518 ], [ 0.1666667, 3.594959 ], [ 0.2, 3.825794 ], [ 0.2333333, 4.785573 ], [ 0.2666667, 6.323992 ], [ 0.3, 5.762228 ], [ 0.3333333, 2.571756 ], [ 0.3666667, 0.6143677 ], [ 0.4, 0.3404286 ], [ 0.4333333, 1.245421 ], [ 0.4666667, 2.594003 ], [ 0.5, 3.339698 ], [ 0.5333333, 4.314725 ], [ 0.5666667, 4.018842 ], [ 0.6, 3.102565 ], [ 0.6333333, 2.445433 ], [ 0.6666667, 2.234913 ], [ 0.7, 1.781059 ], [ 0.7333333, 1.346796 ], [ 0.7666667, 0.8560898 ], [ 0.8, 0.3815793 ] ]
+			},
+			{
+				"url" : "name://@selection/abdomen:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/abdomen:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/abdomen:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/abdomen:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/hip:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/hip:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/hip:?translation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/hip:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/hip:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/hip:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/hip:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/hip:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/hip:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/hip:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection:?translation/x/value",
+				"keys" : [ [ 0, 12.98305 ], [ 0.03333333, 8.114758 ], [ 0.06666667, 5.613998 ], [ 0.1, 2.99282 ], [ 0.1333333, 1.230651 ], [ 0.1666667, 1.646919 ], [ 0.2, 0.8252712 ], [ 0.2333333, -0.3800621 ], [ 0.2666667, -2.832442 ], [ 0.3, -2.968641 ], [ 0.3333333, 6.430062 ], [ 0.3666667, 10.63859 ], [ 0.4, 11.68627 ], [ 0.4333333, 7.711762 ], [ 0.4666667, 1.36451 ], [ 0.5, -1.810894 ], [ 0.5333333, -3.077204 ], [ 0.5666667, -1.139642 ], [ 0.6, 2.903152 ], [ 0.6333333, 7.002988 ], [ 0.6666667, 10.52822 ], [ 0.7, 12.82122 ], [ 0.7333333, 13.26972 ], [ 0.7666667, 13.29436 ], [ 0.8, 12.98305 ] ]
+			},
+			{
+				"url" : "name://@selection:?translation/y/value",
+				"keys" : [ [ 0, -14.42057 ], [ 0.03333333, -14.3342 ], [ 0.06666667, -13.28801 ], [ 0.1, -12.56264 ], [ 0.1333333, -12.83579 ], [ 0.1666667, -11.24166 ], [ 0.2, -5.746679 ], [ 0.2333333, -0.4026749 ], [ 0.2666667, 3.474333 ], [ 0.3, 7.009339 ], [ 0.3333333, 11.92344 ], [ 0.3666667, 13.49599 ], [ 0.4, 8.875549 ], [ 0.4333333, 4.285062 ], [ 0.4666667, 0.985792 ], [ 0.5, -2.078113 ], [ 0.5333333, -4.14802 ], [ 0.5666667, -5.664537 ], [ 0.6, -7.487971 ], [ 0.6333333, -9.482088 ], [ 0.6666667, -11.08899 ], [ 0.7, -12.5728 ], [ 0.7333333, -13.54871 ], [ 0.7666667, -14.13601 ], [ 0.8, -14.42056 ] ]
+			},
+			{
+				"url" : "name://@selection:?translation/z/value",
+				"keys" : [ [ 0, -11.54358 ], [ 0.03333333, -14.22767 ], [ 0.06666667, -18.73569 ], [ 0.1, -18.00762 ], [ 0.1333333, -5.326076 ], [ 0.1666667, 16.73872 ], [ 0.2, 35.54462 ], [ 0.2333333, 52.03141 ], [ 0.2666667, 66.05162 ], [ 0.3, 83.08905 ], [ 0.3333333, 101.2456 ], [ 0.3666667, 110.3163 ], [ 0.4, 102.3125 ], [ 0.4333333, 87.69532 ], [ 0.4666667, 72.88127 ], [ 0.5, 56.46512 ], [ 0.5333333, 40.02753 ], [ 0.5666667, 29.6794 ], [ 0.6, 19.23717 ], [ 0.6333333, 6.233241 ], [ 0.6666667, -5.911544 ], [ 0.7, -10.08063 ], [ 0.7333333, -12.11351 ], [ 0.7666667, -12.36447 ], [ 0.8, -11.54358 ] ]
+			},
+			{
+				"url" : "name://@selection:?rotation/x/value",
+				"keys" : [ [ 0, 6.18841 ], [ 0.03333333, 8.487119 ], [ 0.06666667, 11.97153 ], [ 0.1, 13.05514 ], [ 0.1333333, 8.379725 ], [ 0.1666667, -0.8519595 ], [ 0.2, -8.457535 ], [ 0.2333333, -15.31849 ], [ 0.2666667, -19.80865 ], [ 0.3, -24.92312 ], [ 0.3333333, -30.63831 ], [ 0.3666667, -31.4424 ], [ 0.4, -27.04559 ], [ 0.4333333, -22.61749 ], [ 0.4666667, -18.59812 ], [ 0.5, -12.51566 ], [ 0.5333333, -5.839044 ], [ 0.5666667, -2.258157 ], [ 0.6, 1.360783 ], [ 0.6333333, 5.938939 ], [ 0.6666667, 9.775507 ], [ 0.7, 9.771433 ], [ 0.7333333, 9.003981 ], [ 0.7666667, 7.735107 ], [ 0.8, 6.188409 ] ]
+			},
+			{
+				"url" : "name://@selection:?rotation/y/value",
+				"keys" : [ [ 0, -54.79766 ], [ 0.03333333, -48.71009 ], [ 0.06666667, -44.66981 ], [ 0.1, -34.86781 ], [ 0.1333333, -21.3276 ], [ 0.1666667, -8.458901 ], [ 0.2, -1.146608 ], [ 0.2333333, 6.781268 ], [ 0.2666667, 13.83722 ], [ 0.3, 23.89635 ], [ 0.3333333, 35.11568 ], [ 0.3666667, 38.00129 ], [ 0.4, 28.11377 ], [ 0.4333333, 14.39851 ], [ 0.4666667, 4.384728 ], [ 0.5, -9.622073 ], [ 0.5333333, -22.65466 ], [ 0.5666667, -30.25215 ], [ 0.6, -37.60978 ], [ 0.6333333, -48.48763 ], [ 0.6666667, -55.09103 ], [ 0.7, -56.43256 ], [ 0.7333333, -55.54309 ], [ 0.7666667, -55.05939 ], [ 0.8, -54.79767 ] ]
+			},
+			{
+				"url" : "name://@selection:?rotation/z/value",
+				"keys" : [ [ 0, 6.857499 ], [ 0.03333333, 3.949276 ], [ 0.06666667, 2.163961 ], [ 0.1, 0.1754234 ], [ 0.1333333, -1.208731 ], [ 0.1666667, -1.445991 ], [ 0.2, -2.098733 ], [ 0.2333333, -2.88084 ], [ 0.2666667, -4.441276 ], [ 0.3, -4.61536 ], [ 0.3333333, 1.303787 ], [ 0.3666667, 4.002684 ], [ 0.4, 4.742664 ], [ 0.4333333, 2.342452 ], [ 0.4666667, -1.291446 ], [ 0.5, -3.050051 ], [ 0.5333333, -3.747652 ], [ 0.5666667, -2.486161 ], [ 0.6, 0.0691684 ], [ 0.6333333, 2.757649 ], [ 0.6666667, 5.152145 ], [ 0.7, 6.670783 ], [ 0.7333333, 7.037872 ], [ 0.7666667, 7.071884 ], [ 0.8, 6.857501 ] ]
+			},
+			{
+				"url" : "name://@selection:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			}
+		]
+	}
+}

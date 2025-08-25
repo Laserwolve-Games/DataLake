@@ -1,0 +1,218 @@
+{
+	"file_version" : "0.6.1.0",
+	"asset_info" : {
+		"id" : "/C%3A/Users/Andrew/Documents/assets/LaserwolveGames/sets/goblinWarlock/walk-LightningOrb_propAnimation.duf",
+		"type" : "preset_pose",
+		"contributor" : {
+			"author" : "laserwolve",
+			"email" : "",
+			"website" : ""
+		},
+		"revision" : "1.0",
+		"modified" : "2025-07-03T14:38:47Z"
+	},
+	"scene" : {
+		"animations" : [
+			{
+				"url" : "name://@selection/FIGURE_lightning_ball_A_embers:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/FIGURE_lightning_ball_A_embers:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/FIGURE_lightning_ball_A_embers:?translation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/FIGURE_lightning_ball_A_embers:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/FIGURE_lightning_ball_A_embers:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/FIGURE_lightning_ball_A_embers:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/FIGURE_lightning_ball_A_embers:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/FIGURE_lightning_ball_A_embers:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/FIGURE_lightning_ball_A_embers:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/FIGURE_lightning_ball_A_embers:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/FIGURE_lightning_ball_A_outer_cloud:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/FIGURE_lightning_ball_A_outer_cloud:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/FIGURE_lightning_ball_A_outer_cloud:?translation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/FIGURE_lightning_ball_A_outer_cloud:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/FIGURE_lightning_ball_A_outer_cloud:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/FIGURE_lightning_ball_A_outer_cloud:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/FIGURE_lightning_ball_A_outer_cloud:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/FIGURE_lightning_ball_A_outer_cloud:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/FIGURE_lightning_ball_A_outer_cloud:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/FIGURE_lightning_ball_A_outer_cloud:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/FIGURE_lightning_ball_A_inner_cloud:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/FIGURE_lightning_ball_A_inner_cloud:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/FIGURE_lightning_ball_A_inner_cloud:?translation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/FIGURE_lightning_ball_A_inner_cloud:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/FIGURE_lightning_ball_A_inner_cloud:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/FIGURE_lightning_ball_A_inner_cloud:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/FIGURE_lightning_ball_A_inner_cloud:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/FIGURE_lightning_ball_A_inner_cloud:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/FIGURE_lightning_ball_A_inner_cloud:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/FIGURE_lightning_ball_A_inner_cloud:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/FIGURE_lightning_ball_A_strikes:?translation/x/value",
+				"keys" : [ [ 0, 52.48125 ] ]
+			},
+			{
+				"url" : "name://@selection/FIGURE_lightning_ball_A_strikes:?translation/y/value",
+				"keys" : [ [ 0, 76.71585 ] ]
+			},
+			{
+				"url" : "name://@selection/FIGURE_lightning_ball_A_strikes:?translation/z/value",
+				"keys" : [ [ 0, 20.07352 ] ]
+			},
+			{
+				"url" : "name://@selection/FIGURE_lightning_ball_A_strikes:?rotation/x/value",
+				"keys" : [ [ 0, -83.39482 ], [ 0.03333333, -173.0755 ], [ 0.06666667, 70.30715 ], [ 0.1, -82.86914 ], [ 0.1333333, 134.3994 ], [ 0.1666667, -153.9895 ], [ 0.2, 45.91407 ], [ 0.2333333, 52.93621 ], [ 0.2666667, 148.953 ], [ 0.3, 108.8444 ], [ 0.3333333, -25.30439 ], [ 0.3666667, 14.15286 ], [ 0.4, 38.44829 ], [ 0.4333333, -70.03796 ], [ 0.4666667, 147.537 ], [ 0.5, -155.6748 ], [ 0.5333333, -68.46415 ] ]
+			},
+			{
+				"url" : "name://@selection/FIGURE_lightning_ball_A_strikes:?rotation/y/value",
+				"keys" : [ [ 0, 158.8868 ], [ 0.03333333, 103.687 ], [ 0.06666667, 73.2933 ], [ 0.1, 25.97261 ], [ 0.1333333, 121.6415 ], [ 0.1666667, -116.2899 ], [ 0.2, -86.80219 ], [ 0.2333333, 106.1622 ], [ 0.2666667, -105.0027 ], [ 0.3, 145.0956 ], [ 0.3333333, 179.2825 ], [ 0.3666667, 113.4739 ], [ 0.4, 51.6684 ], [ 0.4333333, -38.19905 ], [ 0.4666667, 150.0839 ], [ 0.5, 42.3765 ], [ 0.5333333, 72.63549 ] ]
+			},
+			{
+				"url" : "name://@selection/FIGURE_lightning_ball_A_strikes:?rotation/z/value",
+				"keys" : [ [ 0, 4.499995 ], [ 0.03333333, 164.231 ], [ 0.06666667, 99.81103 ], [ 0.1, 1.290695 ], [ 0.1333333, -92.77213 ], [ 0.1666667, -127.1446 ], [ 0.2, 4.362521 ], [ 0.2333333, 110.4419 ], [ 0.2666667, -157.1218 ], [ 0.3, -76.71781 ], [ 0.3333333, 163.2095 ], [ 0.3666667, -95.53368 ], [ 0.4, 24.0027 ], [ 0.4333333, 4.893683 ], [ 0.4666667, -119.9346 ], [ 0.5, 177.5719 ], [ 0.5333333, -102.5762 ] ]
+			},
+			{
+				"url" : "name://@selection/FIGURE_lightning_ball_A_strikes:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/FIGURE_lightning_ball_A_strikes:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/FIGURE_lightning_ball_A_strikes:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/FIGURE_lightning_ball_A_strikes:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection:?translation/x/value",
+				"keys" : [ [ 0, 21.19148 ] ]
+			},
+			{
+				"url" : "name://@selection:?translation/y/value",
+				"keys" : [ [ 0, 45.98158 ] ]
+			},
+			{
+				"url" : "name://@selection:?translation/z/value",
+				"keys" : [ [ 0, -6.405897 ] ]
+			},
+			{
+				"url" : "name://@selection:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection:?scale/general/value",
+				"keys" : [ [ 0, 0.5 ] ]
+			},
+			{
+				"url" : "name://@selection:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			}
+		]
+	}
+}
